@@ -3,6 +3,7 @@ import pandas as pd
 from datetime import datetime, timedelta
 
 
+#schools, districts, campaigns, and platforms
 schools = ["Brixton High", "Sandton College", "Soweto Academy",
            "Midrand High", "Alexandra School", "Rosebank Academy",
            "Randburg High"]
