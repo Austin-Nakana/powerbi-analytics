@@ -30,3 +30,13 @@ campaign_noise = {"Career Day": ["Career Day", "career day", "CAREER DAY"],
                   "STEM Drive": ["STEM Drive", "stem drive", "STEM drive"],
                   "Literacy Week": ["Literacy Week", "literacy week", "LITERACY WEEK"],
                   "Digital Skills Push": ["Digital Skills Push", "digital skills push", "DIGITAL PUSH"]} 
+
+date_formats = ["%Y-%m-%d",
+                "%d/%m/%Y",
+                "%Y/%m/%d",
+                "%d-%m-%Y"]
+
+def random_date():
+    start = datetime(2026, 6, 1)
+    d = start + timedelta(days=random.randint(0, 20))
+    return d.strftime(random.choice(date_formats))
