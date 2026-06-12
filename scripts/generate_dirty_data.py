@@ -40,3 +40,6 @@ def random_date():
     start = datetime(2026, 6, 1)
     d = start + timedelta(days=random.randint(0, 20))
     return d.strftime(random.choice(date_formats))
+
+def maybe_null(value, prob=0.06):
+    return None if random.random() < prob else value
