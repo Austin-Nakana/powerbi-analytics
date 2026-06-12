@@ -29,3 +29,10 @@ df["platform"] = df["platform"].replace({
     "whatsapp": "WhatsApp",
     "wa": "WhatsApp"
 })
+
+#fix dates (keep datetime for analysis)
+df["date"] = pd.to_datetime(df["date"], errors="coerce")
+df = df.dropna(subset=["date"])
+
+#remove duplicates
+df = df.drop_duplicates()
