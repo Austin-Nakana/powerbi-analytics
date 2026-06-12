@@ -65,3 +65,13 @@ campaign_summary = df.groupby("campaign").agg(
     avg_engagement_rate=("engagement_rate", "mean"),
     avg_conversion_rate=("conversion_rate", "mean")
 ).reset_index()
+
+school_summary = df.groupby("school").agg(
+    impressions=("impressions", "sum"),
+    registrations=("registrations", "sum")
+).reset_index()
+
+platform_summary = df.groupby("platform").agg(
+    impressions=("impressions", "sum"),
+    engagements=("engagements", "sum")
+).reset_index()
