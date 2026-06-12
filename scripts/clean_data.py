@@ -75,3 +75,13 @@ platform_summary = df.groupby("platform").agg(
     impressions=("impressions", "sum"),
     engagements=("engagements", "sum")
 ).reset_index()
+
+#Insights- Identify top performers
+
+top_campaign = campaign_summary.sort_values("registrations", ascending=False).head(1)
+top_school = school_summary.sort_values("registrations", ascending=False).head(1)
+top_platform = platform_summary.sort_values("engagements", ascending=False).head(1)
+
+print("\nTOP CAMPAIGN:\n", top_campaign)
+print("\nTOP SCHOOL:\n", top_school)
+print("\nTOP PLATFORM:\n", top_platform)
