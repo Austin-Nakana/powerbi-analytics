@@ -19,3 +19,14 @@ districts = {"Brixton High": "Johannesburg South",
 campaigns = ["Career Day", "STEM Drive", "Literacy Week", "Digital Skills Push"]
 
 platforms = ["Instagram", "Facebook", "TikTok", "WhatsApp"]
+
+#intentional noise(dirtt) for platforms and campaigns to simulate real-world data inconsistencies
+platform_noise = {"Instagram": ["Instagram", "instagram", "IG", "Insta"],
+                  "Facebook": ["Facebook", "facebook", "fb"],
+                  "TikTok": ["TikTok", "tiktok", "TT"],
+                  "WhatsApp": ["WhatsApp", "whatsapp", "WA"]}
+
+campaign_noise = {"Career Day": ["Career Day", "career day", "CAREER DAY"],
+                  "STEM Drive": ["STEM Drive", "stem drive", "STEM drive"],
+                  "Literacy Week": ["Literacy Week", "literacy week", "LITERACY WEEK"],
+                  "Digital Skills Push": ["Digital Skills Push", "digital skills push", "DIGITAL PUSH"]} 
