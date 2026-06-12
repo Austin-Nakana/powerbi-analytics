@@ -71,3 +71,6 @@ for _ in range(200):
     data.append(row)
 
 df = pd.DataFrame(data)
+
+#introduce duplicates
+df = pd.concat([df, df.sample(10)], ignore_index=True)
