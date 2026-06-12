@@ -36,3 +36,20 @@ df = df.dropna(subset=["date"])
 
 #remove duplicates
 df = df.drop_duplicates()
+
+#create new metrics
+
+df["ctr"] = df.apply(
+    lambda x: x["clicks"] / x["impressions"] if x["impressions"] > 0 else 0,
+    axis=1
+)
+
+df["engagement_rate"] = df.apply(
+    lambda x: x["engagements"] / x["impressions"] if x["impressions"] > 0 else 0,
+    axis=1
+)
+
+df["conversion_rate"] = df.apply(
+    lambda x: x["registrations"] / x["clicks"] if x["clicks"] > 0 else 0,
+    axis=1
+)
