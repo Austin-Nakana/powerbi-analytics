@@ -85,3 +85,12 @@ top_platform = platform_summary.sort_values("engagements", ascending=False).head
 print("\nTOP CAMPAIGN:\n", top_campaign)
 print("\nTOP SCHOOL:\n", top_school)
 print("\nTOP PLATFORM:\n", top_platform)
+
+#Export cleaned dataset and summaries
+
+df.to_csv("data/cleaned_dataset.csv", index=False)
+campaign_summary.to_csv("data/campaign_summary.csv", index=False)
+school_summary.to_csv("data/school_summary.csv", index=False)
+platform_summary.to_csv("data/platform_summary.csv", index=False)
+
+print("\nClean dataset + summaries exported successfully.")
