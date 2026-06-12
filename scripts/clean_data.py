@@ -53,3 +53,15 @@ df["conversion_rate"] = df.apply(
     lambda x: x["registrations"] / x["clicks"] if x["clicks"] > 0 else 0,
     axis=1
 )
+
+#Analysis - summarise by campaign
+
+campaign_summary = df.groupby("campaign").agg(
+    impressions=("impressions", "sum"),
+    clicks=("clicks", "sum"),
+    engagements=("engagements", "sum"),
+    registrations=("registrations", "sum"),
+    avg_ctr=("ctr", "mean"),
+    avg_engagement_rate=("engagement_rate", "mean"),
+    avg_conversion_rate=("conversion_rate", "mean")
+).reset_index()
