@@ -43,3 +43,31 @@ def random_date():
 
 def maybe_null(value, prob=0.06):
     return None if random.random() < prob else value
+
+data = []
+
+for _ in range(200):
+    school = random.choice(schools)
+    campaign = random.choice(campaigns)
+    platform = random.choice(platforms)
+
+    impressions = random.randint(500, 8000)
+    clicks = int(impressions * random.uniform(0.02, 0.18))
+    engagements = int(impressions * random.uniform(0.03, 0.22))
+    registrations = int(clicks * random.uniform(0.05, 0.3))
+
+    row = {
+        "date": random_date(),
+        "school": maybe_null(random.choice([school, school.lower(), school.upper()])),
+        "district": districts[school],
+        "campaign": random.choice(campaign_noise[campaign]),
+        "platform": random.choice(platform_noise[platform]),
+        "impressions": impressions,
+        "clicks": maybe_null(clicks),
+        "engagements": maybe_null(engagements),
+        "registrations": maybe_null(registrations)
+    }
+
+    data.append(row)
+
+df = pd.DataFrame(data)
