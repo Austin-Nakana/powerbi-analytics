@@ -74,3 +74,8 @@ df = pd.DataFrame(data)
 
 #introduce duplicates
 df = pd.concat([df, df.sample(10)], ignore_index=True)
+
+#export dataset to CSV
+df.to_csv("data/raw_schoolmedia_campaigns.csv", index=False)
+
+print("Raw SchoolMedia dataset generated.")
