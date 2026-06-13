@@ -25,9 +25,10 @@ df["platform"] = df["platform"].replace({
     "facebook": "Facebook",
     "fb": "Facebook",
     "tiktok": "TikTok",
-    "tt": "TikTok",
+    "TT": "TikTok",
     "whatsapp": "WhatsApp",
-    "wa": "WhatsApp"
+    "WA": "WhatsApp",
+
 })
 
 #fix dates (keep datetime for analysis)
