@@ -1,211 +1,313 @@
-date,school,district,campaign,platform,impressions,clicks,engagements,registrations
-04-06-2026,SANDTON COLLEGE,Sandton,stem drive,Facebook,7024,517.0,1389.0,40.0
-04-06-2026,brixton high,Johannesburg South,literacy week,Facebook,5957,846.0,398.0,162.0
-2026/06/19,sandton college,Sandton,LITERACY WEEK,TikTok,3979,622.0,721.0,72.0
-2026-06-20,Sandton College,Sandton,DIGITAL PUSH,Insta,5419,212.0,189.0,49.0
-21/06/2026,ALEXANDRA SCHOOL,Alexandra,STEM drive,Facebook,5433,645.0,572.0,168.0
-2026-06-20,rosebank academy,Rosebank,Career Day,Facebook,4358,,296.0,24.0
-08-06-2026,alexandra school,Alexandra,literacy week,WA,6699,164.0,1184.0,35.0
-2026/06/04,brixton high,Johannesburg South,Literacy Week,Facebook,3802,377.0,411.0,36.0
-2026/06/11,ALEXANDRA SCHOOL,Alexandra,career day,WhatsApp,2864,333.0,474.0,29.0
-2026/06/14,SANDTON COLLEGE,Sandton,CAREER DAY,WhatsApp,6471,374.0,1193.0,103.0
-01/06/2026,Sandton College,Sandton,Digital Skills Push,Insta,6220,,193.0,173.0
-01-06-2026,rosebank academy,Rosebank,Digital Skills Push,tiktok,5680,723.0,716.0,47.0
-13/06/2026,Midrand High,Midrand,Literacy Week,IG,2880,387.0,435.0,
-2026/06/09,rosebank academy,Rosebank,Career Day,WA,6735,744.0,667.0,179.0
-2026-06-16,,Sandton,STEM drive,TikTok,1367,215.0,244.0,63.0
-12-06-2026,SOWETO ACADEMY,Soweto,career day,whatsapp,7667,941.0,1052.0,156.0
-10-06-2026,MIDRAND HIGH,Midrand,Digital Skills Push,instagram,2404,424.0,527.0,49.0
-2026/06/14,Midrand High,Midrand,career day,Instagram,2477,,406.0,17.0
-02-06-2026,Midrand High,Midrand,CAREER DAY,Facebook,625,93.0,,10.0
-19-06-2026,Midrand High,Midrand,literacy week,WA,6163,638.0,535.0,75.0
-2026/06/06,Randburg High,Randburg,CAREER DAY,tiktok,6795,1196.0,854.0,
-2026-06-21,RANDBURG HIGH,Randburg,Literacy Week,Insta,5165,230.0,428.0,22.0
-2026/06/02,randburg high,Randburg,Literacy Week,instagram,6068,566.0,,123.0
-12-06-2026,midrand high,Midrand,digital skills push,Instagram,4354,419.0,147.0,53.0
-2026-06-09,brixton high,Johannesburg South,DIGITAL PUSH,whatsapp,5381,,471.0,35.0
-2026/06/01,MIDRAND HIGH,Midrand,stem drive,Insta,6873,767.0,231.0,128.0
-03-06-2026,Randburg High,Randburg,Literacy Week,WA,2242,373.0,400.0,
-11/06/2026,BRIXTON HIGH,Johannesburg South,CAREER DAY,Instagram,5413,350.0,190.0,40.0
-2026/06/13,RANDBURG HIGH,Randburg,Career Day,WA,3487,294.0,114.0,22.0
-19-06-2026,alexandra school,Alexandra,STEM Drive,facebook,5739,1006.0,276.0,145.0
-2026/06/06,Midrand High,Midrand,LITERACY WEEK,IG,6152,,1123.0,30.0
-2026/06/04,sandton college,Sandton,DIGITAL PUSH,Instagram,6848,953.0,,67.0
-01-06-2026,RANDBURG HIGH,Randburg,CAREER DAY,fb,6727,511.0,452.0,145.0
-2026/06/02,rosebank academy,Rosebank,LITERACY WEEK,WhatsApp,3928,432.0,130.0,72.0
-2026-06-16,Brixton High,Johannesburg South,STEM Drive,tiktok,2609,247.0,148.0,71.0
-09/06/2026,,Johannesburg South,Digital Skills Push,WA,7527,280.0,817.0,41.0
-2026-06-19,RANDBURG HIGH,Randburg,DIGITAL PUSH,whatsapp,7372,777.0,754.0,228.0
-21-06-2026,Midrand High,Midrand,LITERACY WEEK,TT,1856,309.0,58.0,70.0
-16-06-2026,randburg high,Randburg,literacy week,instagram,6798,698.0,936.0,171.0
-2026/06/15,sandton college,Sandton,STEM Drive,whatsapp,5246,225.0,,41.0
-10-06-2026,MIDRAND HIGH,Midrand,digital skills push,facebook,3202,381.0,364.0,
-2026-06-19,MIDRAND HIGH,Midrand,CAREER DAY,TT,4957,535.0,353.0,91.0
-2026-06-15,Alexandra School,Alexandra,LITERACY WEEK,Facebook,3044,,571.0,142.0
-16-06-2026,,Sandton,digital skills push,Insta,4771,583.0,377.0,123.0
-2026/06/12,alexandra school,Alexandra,stem drive,IG,4228,710.0,424.0,70.0
-15/06/2026,Sandton College,Sandton,LITERACY WEEK,fb,6646,855.0,476.0,190.0
-07/06/2026,brixton high,Johannesburg South,literacy week,tiktok,7996,998.0,1261.0,221.0
-2026/06/03,SOWETO ACADEMY,Soweto,Digital Skills Push,Instagram,6460,667.0,,114.0
-12/06/2026,,Sandton,DIGITAL PUSH,fb,3464,374.0,469.0,74.0
-2026/06/17,alexandra school,Alexandra,Career Day,TT,7040,164.0,,28.0
-2026/06/09,MIDRAND HIGH,Midrand,Career Day,fb,6835,,849.0,59.0
-11-06-2026,Alexandra School,Alexandra,LITERACY WEEK,Insta,4447,168.0,795.0,43.0
-2026-06-14,Midrand High,Midrand,STEM drive,Instagram,2527,417.0,505.0,68.0
-10/06/2026,SOWETO ACADEMY,Soweto,stem drive,fb,5897,1056.0,888.0,115.0
-2026-06-18,BRIXTON HIGH,Johannesburg South,Literacy Week,facebook,692,68.0,49.0,9.0
-18-06-2026,Midrand High,Midrand,stem drive,WA,3146,387.0,568.0,72.0
-19/06/2026,Midrand High,Midrand,Digital Skills Push,fb,3988,637.0,,49.0
-18/06/2026,MIDRAND HIGH,Midrand,CAREER DAY,facebook,2171,,81.0,
-2026/06/02,Sandton College,Sandton,DIGITAL PUSH,WhatsApp,1003,159.0,89.0,13.0
-2026-06-04,midrand high,Midrand,STEM Drive,fb,4980,473.0,499.0,134.0
-2026-06-18,Soweto Academy,Soweto,LITERACY WEEK,TikTok,2625,253.0,262.0,47.0
-21/06/2026,Midrand High,Midrand,literacy week,whatsapp,7428,1159.0,958.0,193.0
-2026/06/17,RANDBURG HIGH,Randburg,digital skills push,Instagram,4835,568.0,736.0,162.0
-14-06-2026,BRIXTON HIGH,Johannesburg South,digital skills push,fb,7002,465.0,911.0,29.0
-2026/06/02,sandton college,Sandton,digital skills push,whatsapp,4594,462.0,432.0,64.0
-10-06-2026,Randburg High,Randburg,literacy week,IG,4797,297.0,463.0,37.0
-2026/06/03,brixton high,Johannesburg South,Career Day,TikTok,3504,313.0,759.0,74.0
-2026-06-18,Brixton High,Johannesburg South,digital skills push,IG,5876,627.0,278.0,82.0
-09-06-2026,,Alexandra,literacy week,Facebook,6667,885.0,1213.0,201.0
-2026-06-04,ROSEBANK ACADEMY,Rosebank,DIGITAL PUSH,WhatsApp,6732,330.0,522.0,38.0
-2026-06-11,SANDTON COLLEGE,Sandton,literacy week,Insta,640,42.0,93.0,10.0
-2026-06-01,SANDTON COLLEGE,Sandton,STEM drive,WhatsApp,512,41.0,18.0,10.0
-21/06/2026,Sandton College,Sandton,LITERACY WEEK,whatsapp,3571,150.0,642.0,20.0
-17-06-2026,Sandton College,Sandton,STEM drive,whatsapp,686,119.0,126.0,25.0
-2026-06-06,soweto academy,Soweto,stem drive,WA,6970,958.0,1212.0,180.0
-2026-06-02,rosebank academy,Rosebank,STEM drive,WA,1363,214.0,,41.0
-2026-06-13,MIDRAND HIGH,Midrand,stem drive,WhatsApp,5528,314.0,1127.0,93.0
-21-06-2026,ALEXANDRA SCHOOL,Alexandra,Digital Skills Push,tiktok,4524,99.0,463.0,6.0
-02/06/2026,rosebank academy,Rosebank,digital skills push,TT,2046,167.0,,30.0
-06/06/2026,sandton college,Sandton,STEM drive,instagram,943,160.0,161.0,14.0
-2026-06-20,Soweto Academy,Soweto,Literacy Week,tiktok,726,38.0,62.0,2.0
-01-06-2026,Rosebank Academy,Rosebank,STEM Drive,facebook,7015,1250.0,535.0,115.0
-2026/06/19,ROSEBANK ACADEMY,Rosebank,STEM Drive,fb,1005,74.0,58.0,11.0
-2026/06/10,sandton college,Sandton,LITERACY WEEK,Instagram,3607,414.0,355.0,91.0
-2026-06-17,SANDTON COLLEGE,Sandton,CAREER DAY,instagram,7815,957.0,1494.0,223.0
-13/06/2026,MIDRAND HIGH,Midrand,stem drive,TikTok,4422,790.0,,46.0
-2026-06-11,sandton college,Sandton,digital skills push,TikTok,6794,1125.0,392.0,173.0
-07/06/2026,Rosebank Academy,Rosebank,DIGITAL PUSH,facebook,6850,403.0,1211.0,42.0
-2026-06-05,SANDTON COLLEGE,Sandton,LITERACY WEEK,facebook,5917,446.0,1077.0,
-2026/06/14,Rosebank Academy,Rosebank,STEM Drive,WhatsApp,6160,1102.0,,244.0
-2026/06/05,ALEXANDRA SCHOOL,Alexandra,Literacy Week,TT,7216,184.0,799.0,39.0
-01-06-2026,brixton high,Johannesburg South,Digital Skills Push,TikTok,5169,776.0,996.0,110.0
-2026-06-18,Rosebank Academy,Rosebank,DIGITAL PUSH,fb,4184,623.0,216.0,115.0
-18-06-2026,SOWETO ACADEMY,Soweto,DIGITAL PUSH,Instagram,5575,344.0,1076.0,
-01-06-2026,Brixton High,Johannesburg South,STEM drive,whatsapp,5161,349.0,1038.0,75.0
-2026/06/07,SANDTON COLLEGE,Sandton,Literacy Week,facebook,6390,155.0,797.0,30.0
-19/06/2026,rosebank academy,Rosebank,literacy week,IG,1968,120.0,414.0,11.0
-05/06/2026,Soweto Academy,Soweto,literacy week,Facebook,6324,143.0,304.0,
-2026-06-01,,Randburg,DIGITAL PUSH,Facebook,2316,413.0,420.0,105.0
-15-06-2026,RANDBURG HIGH,Randburg,stem drive,tiktok,917,126.0,163.0,34.0
-2026/06/12,BRIXTON HIGH,Johannesburg South,Career Day,WhatsApp,1014,137.0,168.0,10.0
-2026/06/02,sandton college,Sandton,stem drive,TT,1425,213.0,269.0,46.0
-16/06/2026,SOWETO ACADEMY,Soweto,digital skills push,tiktok,2650,107.0,117.0,7.0
-2026/06/09,Soweto Academy,Soweto,literacy week,IG,5195,634.0,875.0,118.0
-13-06-2026,randburg high,Randburg,Career Day,WhatsApp,6889,680.0,1496.0,149.0
-04-06-2026,BRIXTON HIGH,Johannesburg South,Career Day,Instagram,3768,298.0,274.0,37.0
-12/06/2026,Soweto Academy,Soweto,DIGITAL PUSH,Instagram,5330,790.0,307.0,86.0
-10/06/2026,Randburg High,Randburg,Literacy Week,TT,5807,231.0,787.0,62.0
-05-06-2026,Soweto Academy,Soweto,DIGITAL PUSH,Instagram,5607,142.0,670.0,41.0
-15/06/2026,Soweto Academy,Soweto,literacy week,IG,3754,386.0,659.0,52.0
-2026/06/11,randburg high,Randburg,STEM drive,Instagram,7755,1377.0,,162.0
-2026-06-12,soweto academy,Soweto,literacy week,instagram,1965,178.0,88.0,
-2026-06-15,Brixton High,Johannesburg South,DIGITAL PUSH,fb,2768,243.0,319.0,17.0
-2026-06-08,ALEXANDRA SCHOOL,Alexandra,DIGITAL PUSH,WhatsApp,6066,634.0,1236.0,
-03-06-2026,MIDRAND HIGH,Midrand,Digital Skills Push,fb,599,86.0,25.0,24.0
-09/06/2026,brixton high,Johannesburg South,literacy week,whatsapp,1743,202.0,297.0,18.0
-02-06-2026,midrand high,Midrand,STEM Drive,Facebook,6818,797.0,1014.0,49.0
-2026/06/07,,Alexandra,digital skills push,instagram,4377,652.0,355.0,181.0
-04-06-2026,Brixton High,Johannesburg South,literacy week,Facebook,7950,1098.0,649.0,217.0
-01-06-2026,Soweto Academy,Soweto,Digital Skills Push,Insta,1882,125.0,186.0,11.0
-03/06/2026,Randburg High,Randburg,STEM drive,fb,2347,,231.0,76.0
-2026-06-04,ALEXANDRA SCHOOL,Alexandra,Literacy Week,whatsapp,3544,402.0,657.0,87.0
-12-06-2026,Brixton High,Johannesburg South,digital skills push,facebook,7590,729.0,1658.0,76.0
-2026/06/14,SOWETO ACADEMY,Soweto,digital skills push,WhatsApp,7387,1199.0,1246.0,109.0
-02-06-2026,Randburg High,Randburg,STEM drive,tiktok,7504,171.0,1479.0,14.0
-2026/06/18,alexandra school,Alexandra,stem drive,WA,5457,400.0,584.0,105.0
-2026-06-15,Alexandra School,Alexandra,LITERACY WEEK,facebook,7121,770.0,666.0,230.0
-2026/06/18,SOWETO ACADEMY,Soweto,Literacy Week,tiktok,3433,328.0,723.0,76.0
-06-06-2026,Rosebank Academy,Rosebank,STEM drive,tiktok,7276,721.0,1124.0,97.0
-2026-06-01,BRIXTON HIGH,Johannesburg South,CAREER DAY,Insta,6132,1100.0,239.0,181.0
-18-06-2026,sandton college,Sandton,Career Day,WA,4928,132.0,1002.0,23.0
-2026-06-10,Rosebank Academy,Rosebank,LITERACY WEEK,WA,935,128.0,64.0,26.0
-2026/06/02,Midrand High,Midrand,literacy week,Facebook,6103,307.0,366.0,83.0
-14-06-2026,midrand high,Midrand,Career Day,facebook,7512,1141.0,1165.0,148.0
-08-06-2026,Alexandra School,Alexandra,CAREER DAY,Facebook,5450,432.0,481.0,70.0
-05-06-2026,SOWETO ACADEMY,Soweto,Career Day,facebook,5231,709.0,980.0,135.0
-2026-06-01,ALEXANDRA SCHOOL,Alexandra,STEM drive,Instagram,4057,402.0,570.0,93.0
-02/06/2026,MIDRAND HIGH,Midrand,digital skills push,WhatsApp,3031,205.0,487.0,45.0
-06-06-2026,,Sandton,CAREER DAY,TT,7173,338.0,886.0,94.0
-17-06-2026,midrand high,Midrand,Career Day,TT,2683,411.0,517.0,25.0
-14/06/2026,alexandra school,Alexandra,DIGITAL PUSH,WhatsApp,6872,323.0,406.0,35.0
-02-06-2026,Midrand High,Midrand,stem drive,instagram,3632,602.0,255.0,76.0
-15/06/2026,brixton high,Johannesburg South,CAREER DAY,WhatsApp,6651,1097.0,537.0,96.0
-17-06-2026,,Johannesburg South,Literacy Week,IG,7423,601.0,1387.0,94.0
-04-06-2026,Sandton College,Sandton,literacy week,TT,2014,122.0,259.0,
-2026/06/07,alexandra school,Alexandra,LITERACY WEEK,Insta,1974,75.0,173.0,8.0
-2026-06-20,Rosebank Academy,Rosebank,DIGITAL PUSH,WA,7903,281.0,422.0,
-04-06-2026,Midrand High,Midrand,STEM Drive,Instagram,1263,167.0,46.0,37.0
-18-06-2026,sandton college,Sandton,LITERACY WEEK,WA,5178,,724.0,8.0
-08-06-2026,Alexandra School,Alexandra,digital skills push,TT,2167,99.0,348.0,17.0
-02-06-2026,brixton high,Johannesburg South,Career Day,WhatsApp,2695,253.0,279.0,13.0
-2026/06/18,alexandra school,Alexandra,STEM drive,Facebook,7682,505.0,1299.0,57.0
-14/06/2026,MIDRAND HIGH,Midrand,literacy week,facebook,540,29.0,51.0,7.0
-02/06/2026,randburg high,Randburg,STEM drive,tiktok,2803,449.0,490.0,45.0
-2026-06-10,Rosebank Academy,Rosebank,career day,tiktok,7703,799.0,1321.0,151.0
-04/06/2026,soweto academy,Soweto,LITERACY WEEK,TT,3813,,425.0,20.0
-2026-06-21,SOWETO ACADEMY,Soweto,digital skills push,WhatsApp,3354,583.0,160.0,102.0
-2026-06-04,Midrand High,Midrand,Literacy Week,WhatsApp,3569,116.0,230.0,17.0
-2026/06/18,BRIXTON HIGH,Johannesburg South,Career Day,WhatsApp,1364,130.0,64.0,7.0
-2026-06-11,Midrand High,Midrand,Digital Skills Push,WhatsApp,1178,205.0,127.0,34.0
-10-06-2026,SANDTON COLLEGE,Sandton,STEM Drive,WA,7516,1167.0,1484.0,216.0
-10-06-2026,soweto academy,Soweto,Literacy Week,IG,1153,,181.0,27.0
-13/06/2026,Sandton College,Sandton,career day,tiktok,3809,517.0,188.0,134.0
-2026-06-08,SOWETO ACADEMY,Soweto,STEM Drive,WA,6216,262.0,,24.0
-12/06/2026,SANDTON COLLEGE,Sandton,career day,IG,5764,507.0,306.0,52.0
-03/06/2026,alexandra school,Alexandra,stem drive,TT,2859,103.0,134.0,10.0
-17/06/2026,Brixton High,Johannesburg South,digital skills push,fb,6312,809.0,822.0,179.0
-2026/06/15,midrand high,Midrand,digital skills push,TT,7446,,381.0,46.0
-2026/06/05,soweto academy,Soweto,LITERACY WEEK,TT,1664,104.0,216.0,16.0
-2026-06-09,soweto academy,Soweto,DIGITAL PUSH,Facebook,7949,726.0,712.0,43.0
-20-06-2026,,Alexandra,DIGITAL PUSH,IG,5271,685.0,,97.0
-2026/06/20,Randburg High,Randburg,CAREER DAY,facebook,3789,317.0,671.0,83.0
-19-06-2026,Alexandra School,Alexandra,STEM Drive,whatsapp,7678,280.0,1381.0,71.0
-2026/06/06,SOWETO ACADEMY,Soweto,career day,whatsapp,2115,108.0,146.0,24.0
-04-06-2026,sandton college,Sandton,Literacy Week,tiktok,1275,126.0,188.0,8.0
-2026/06/20,Randburg High,Randburg,Literacy Week,WA,6264,314.0,1116.0,83.0
-13-06-2026,Alexandra School,Alexandra,career day,Instagram,7907,385.0,,70.0
-17/06/2026,Midrand High,Midrand,Digital Skills Push,whatsapp,4554,144.0,513.0,32.0
-2026/06/04,Soweto Academy,Soweto,stem drive,IG,1820,206.0,78.0,58.0
-12-06-2026,SOWETO ACADEMY,Soweto,Digital Skills Push,Facebook,4142,452.0,283.0,62.0
-17/06/2026,randburg high,Randburg,Literacy Week,TT,2146,101.0,431.0,28.0
-2026/06/06,Soweto Academy,Soweto,digital skills push,whatsapp,2923,387.0,232.0,107.0
-2026-06-11,randburg high,Randburg,Literacy Week,TikTok,3309,536.0,493.0,
-2026/06/18,BRIXTON HIGH,Johannesburg South,LITERACY WEEK,WhatsApp,4108,737.0,388.0,59.0
-04/06/2026,midrand high,Midrand,literacy week,WhatsApp,3345,306.0,470.0,30.0
-2026-06-19,ALEXANDRA SCHOOL,Alexandra,digital skills push,TT,6144,473.0,1299.0,
-2026-06-16,Brixton High,Johannesburg South,digital skills push,Insta,1940,240.0,172.0,25.0
-12-06-2026,ALEXANDRA SCHOOL,Alexandra,LITERACY WEEK,facebook,4806,627.0,932.0,130.0
-2026-06-13,ALEXANDRA SCHOOL,Alexandra,DIGITAL PUSH,instagram,5307,,458.0,37.0
-09/06/2026,soweto academy,Soweto,STEM Drive,TT,2008,231.0,,52.0
-15/06/2026,SANDTON COLLEGE,Sandton,Digital Skills Push,WA,6085,541.0,1316.0,117.0
-11/06/2026,randburg high,Randburg,DIGITAL PUSH,TikTok,2504,112.0,224.0,12.0
-20-06-2026,ALEXANDRA SCHOOL,Alexandra,LITERACY WEEK,Insta,7460,485.0,506.0,80.0
-2026/06/05,,Rosebank,Digital Skills Push,whatsapp,5285,717.0,1026.0,
-17/06/2026,randburg high,Randburg,Career Day,whatsapp,1535,40.0,156.0,11.0
-2026/06/21,RANDBURG HIGH,Randburg,Literacy Week,whatsapp,2963,128.0,378.0,26.0
-07/06/2026,midrand high,Midrand,Literacy Week,tiktok,7393,985.0,557.0,227.0
-2026-06-18,Brixton High,Johannesburg South,Digital Skills Push,facebook,4124,526.0,242.0,55.0
-2026-06-17,RANDBURG HIGH,Randburg,Career Day,TT,5401,492.0,232.0,71.0
-03-06-2026,midrand high,Midrand,STEM drive,whatsapp,1676,186.0,61.0,50.0
-2026-06-13,MIDRAND HIGH,Midrand,stem drive,WhatsApp,5528,314.0,1127.0,93.0
-06-06-2026,,Sandton,CAREER DAY,TT,7173,338.0,886.0,94.0
-11/06/2026,randburg high,Randburg,DIGITAL PUSH,TikTok,2504,112.0,224.0,12.0
-2026/06/02,randburg high,Randburg,Literacy Week,instagram,6068,566.0,,123.0
-2026-06-19,ALEXANDRA SCHOOL,Alexandra,digital skills push,TT,6144,473.0,1299.0,
-17/06/2026,randburg high,Randburg,Career Day,whatsapp,1535,40.0,156.0,11.0
-10/06/2026,Randburg High,Randburg,Literacy Week,TT,5807,231.0,787.0,62.0
-09/06/2026,,Johannesburg South,Digital Skills Push,WA,7527,280.0,817.0,41.0
-15/06/2026,brixton high,Johannesburg South,CAREER DAY,WhatsApp,6651,1097.0,537.0,96.0
-2026-06-15,Alexandra School,Alexandra,LITERACY WEEK,Facebook,3044,,571.0,142.0
+date,school,district,school_type,campaign,campaign_phase,platform,content_type,boosted,target_grade,target_gender,on_ground_support,spend_zar,budget_allocated_zar,impressions,engagements,clicks,link_clicks,page_views,form_starts,registrations,confirmed_enrollments,counsellor_referrals
+2026-05-24,Rosebank Academy,Rosebank,Public,career day,Close,IG,Video,True,Grade 11,All,False,402.27,346.4,7631,608.0,388.0,236.0,169.0,78.0,8.0,4.0,22.0
+2026-06-07,MIDRAND HIGH,Midrand,Public,CAREER DAY,Close,fb,Static,True,Grade 12,All,True,122.89,146.83,2550,162.0,183.0,97.0,66.0,33.0,4.0,,11.0
+19-04-2026,Randburg High,Randburg,Public,Literacy Week,Mid,WhatsApp,Carousel,True,Both,All,False,54.29,54.87,1919,497.0,310.0,184.0,115.0,48.0,9.0,4.0,
+2026-05-21,ROSEBANK ACADEMY,Rosebank,Public,Career Day,Close,Facebook,Carousel,True,Grade 12,Female,True,462.97,551.01,9937,874.0,501.0,,161.0,80.0,15.0,6.0,19.0
+2026/04/17,Randburg High,Randburg,Public,STEM Drive,Mid,TT,Story,True,Grade 11,Female,False,299.27,333.49,6924,1509.0,819.0,441.0,331.0,119.0,19.0,10.0,32.0
+30/05/2026,sandton college,Sandton,Public,digital skills push,Close,TikTok,Static,True,Grade 11,Male,False,166.3,183.79,5250,901.0,778.0,337.0,226.0,79.0,,4.0,23.0
+2026-04-16,SANDTON COLLEGE,Sandton,Public,STEM Drive,Mid,WA,Carousel,True,Grade 12,Male,True,104.85,117.93,3675,975.0,,660.0,518.0,232.0,60.0,27.0,47.0
+2026-04-18,ALEXANDRA SCHOOL,Alexandra,No-Fee Public,stem drive,Mid,instagram,Carousel,True,Both,All,False,446.8,417.11,7910,905.0,715.0,361.0,232.0,110.0,5.0,2.0,54.0
+2026/06/11,,Johannesburg South,Public,Literacy Week,Close,IG,Video,False,Grade 11,Male,True,0.0,0.0,1599,211.0,146.0,101.0,70.0,22.0,3.0,,11.0
+01/04/2026,ALEXANDRA SCHOOL,Alexandra,No-Fee Public,stem drive,Launch,WA,Static,True,Grade 11,Female,True,37.64,43.64,1470,295.0,375.0,170.0,140.0,71.0,5.0,3.0,23.0
+2026-04-05,Soweto Academy,Soweto,No-Fee Public,stem drive,Launch,TT,Video,False,Grade 12,Female,False,0.0,0.0,2186,524.0,323.0,189.0,157.0,,4.0,1.0,27.0
+2026/05/04,rosebank academy,Rosebank,Public,STEM Drive,Mid,facebook,Story,True,Grade 12,All,False,68.7,65.83,2020,98.0,89.0,44.0,25.0,9.0,2.0,1.0,6.0
+21-04-2026,sandton college,Sandton,Public,Career Day,Mid,fb,Static,False,Grade 12,Male,False,0.0,0.0,1625,44.0,34.0,16.0,11.0,5.0,0.0,0.0,1.0
+2026/04/04,RANDBURG HIGH,Randburg,Public,Career Day,Launch,whatsapp,Static,False,Both,All,False,0.0,0.0,200,52.0,45.0,31.0,22.0,11.0,1.0,0.0,2.0
+08/05/2026,midrand high,Midrand,Public,digital skills push,Mid,facebook,Carousel,True,Grade 11,Female,False,,24.3,820,59.0,39.0,28.0,17.0,6.0,0.0,,2.0
+26/04/2026,ALEXANDRA SCHOOL,Alexandra,No-Fee Public,CAREER DAY,Mid,Instagram,Video,True,Grade 12,Male,True,107.58,120.11,2401,335.0,,161.0,100.0,27.0,2.0,1.0,24.0
+2026-04-22,RANDBURG HIGH,Randburg,Public,LITERACY WEEK,Mid,TT,Story,False,Both,Male,True,0.0,0.0,1194,317.0,,88.0,58.0,30.0,4.0,,11.0
+24-05-2026,Midrand High,Midrand,Public,CAREER DAY,Close,WA,Static,True,Grade 12,All,True,37.6,40.07,1634,496.0,479.0,269.0,214.0,91.0,14.0,6.0,38.0
+2026/04/07,alexandra school,Alexandra,No-Fee Public,career day,Launch,tiktok,Carousel,False,Grade 12,All,False,0.0,0.0,1341,383.0,67.0,31.0,23.0,7.0,0.0,0.0,3.0
+26/05/2026,Randburg High,Randburg,Public,literacy week,Close,Instagram,Video,True,Grade 12,Male,False,38.26,33.25,1052,127.0,120.0,,57.0,16.0,1.0,0.0,7.0
+18/05/2026,Randburg High,Randburg,Public,DIGITAL SKILLS PUSH,Close,TT,Video,False,Grade 12,Female,False,0.0,,18255,5529.0,2216.0,1621.0,992.0,310.0,52.0,23.0,109.0
+08-04-2026,Randburg High,Randburg,Public,stem drive,Launch,WA,Carousel,False,Grade 11,Female,True,0.0,0.0,567,229.0,137.0,68.0,39.0,17.0,1.0,0.0,6.0
+2026-04-27,brixton high,Johannesburg South,Public,stem drive,Mid,whatsapp,Static,False,Grade 12,Male,False,0.0,0.0,697,149.0,140.0,,41.0,12.0,,1.0,8.0
+02/04/2026,midrand high,Midrand,Public,digital skills push,Launch,IG,Carousel,False,Grade 12,Female,False,0.0,0.0,677,123.0,63.0,32.0,17.0,6.0,0.0,0.0,1.0
+07/06/2026,RANDBURG HIGH,Randburg,Public,digital skills push,Close,Facebook,Static,False,Grade 11,Female,False,0.0,0.0,866,55.0,40.0,22.0,14.0,6.0,0.0,0.0,3.0
+26-05-2026,,Alexandra,No-Fee Public,Literacy Week,Close,instagram,Carousel,True,Both,Female,True,407.48,357.03,6357,1139.0,342.0,211.0,141.0,38.0,2.0,1.0,21.0
+2026-05-24,brixton high,Johannesburg South,Public,CAREER DAY,Close,fb,Carousel,True,Grade 12,Female,False,52.58,47.82,1078,33.0,77.0,47.0,29.0,15.0,1.0,0.0,3.0
+2026/05/04,Midrand High,Midrand,Public,CAREER DAY,Mid,tiktok,Video,True,Grade 12,All,False,314.02,329.12,11690,3807.0,1425.0,594.0,434.0,173.0,46.0,22.0,77.0
+2026-05-30,Rosebank Academy,Rosebank,Public,STEM Drive,Close,Insta,Carousel,True,Grade 12,Male,False,154.43,158.39,3359,315.0,150.0,,89.0,48.0,5.0,3.0,13.0
+02/05/2026,randburg high,Randburg,Public,LITERACY WEEK,Mid,Insta,Carousel,True,Both,All,False,214.36,217.04,3965,657.0,350.0,154.0,86.0,22.0,4.0,1.0,11.0
+10/04/2026,Midrand High,Midrand,Public,STEM drive,Launch,Facebook,Static,True,Both,All,False,38.12,43.72,1330,55.0,79.0,49.0,35.0,8.0,0.0,0.0,3.0
+01/05/2026,,Randburg,Public,STEM drive,Mid,IG,Video,False,Grade 11,Female,True,0.0,0.0,12926,917.0,1250.0,730.0,564.0,221.0,45.0,24.0,44.0
+07-04-2026,Alexandra School,Alexandra,No-Fee Public,stem drive,Launch,Insta,Static,False,Both,All,True,0.0,0.0,2411,213.0,165.0,111.0,64.0,28.0,2.0,1.0,15.0
+2026-04-22,brixton high,Johannesburg South,Public,literacy week,Mid,TikTok,Video,True,Both,All,True,74.51,82.9,2034,773.0,242.0,178.0,129.0,45.0,9.0,,20.0
+2026-04-06,Randburg High,Randburg,Public,LITERACY WEEK,Launch,Instagram,Static,True,Grade 12,Female,True,436.01,381.23,7968,916.0,935.0,404.0,286.0,103.0,15.0,6.0,32.0
+2026/04/13,Rosebank Academy,Rosebank,Public,DIGITAL SKILLS PUSH,Launch,Facebook,Carousel,True,Both,Male,False,23.93,22.48,822,42.0,16.0,10.0,6.0,2.0,0.0,0.0,1.0
+12/04/2026,Sandton College,Sandton,Public,digital skills push,Launch,Facebook,Static,False,Grade 11,Female,False,0.0,0.0,1583,55.0,63.0,28.0,19.0,5.0,0.0,0.0,2.0
+2026-04-08,alexandra school,Alexandra,No-Fee Public,LITERACY WEEK,Launch,fb,Video,True,Grade 12,All,True,16.37,15.69,407,31.0,9.0,6.0,3.0,1.0,0.0,0.0,0.0
+04/06/2026,brixton high,Johannesburg South,Public,STEM drive,Close,WhatsApp,Static,True,Both,Male,False,12.18,13.25,478,62.0,123.0,63.0,40.0,16.0,1.0,0.0,8.0
+2026/05/06,SANDTON COLLEGE,Sandton,Public,career day,Mid,WhatsApp,Video,False,Grade 12,Male,False,0.0,0.0,763,457.0,105.0,52.0,40.0,16.0,3.0,1.0,5.0
+2026/05/12,SOWETO ACADEMY,Soweto,No-Fee Public,DIGITAL SKILLS PUSH,Mid,TT,Video,True,Grade 12,Male,False,642.42,609.41,20367,4777.0,1996.0,1473.0,1171.0,574.0,44.0,20.0,168.0
+12-04-2026,soweto academy,Soweto,No-Fee Public,Career Day,Launch,WhatsApp,Static,False,Grade 11,Female,True,0.0,0.0,749,215.0,196.0,132.0,78.0,26.0,1.0,,8.0
+2026-04-09,randburg high,Randburg,Public,Digital Skills Push,Launch,Insta,Story,True,Both,All,False,143.98,144.01,3663,,189.0,103.0,77.0,21.0,2.0,0.0,10.0
+28-05-2026,,Johannesburg South,Public,LITERACY WEEK,Close,Facebook,Video,False,Both,Female,False,0.0,0.0,1052,,80.0,33.0,20.0,9.0,1.0,0.0,2.0
+07-05-2026,soweto academy,Soweto,No-Fee Public,STEM drive,Mid,whatsapp,Static,False,Both,Female,False,0.0,0.0,236,67.0,55.0,,16.0,7.0,0.0,0.0,2.0
+01/04/2026,brixton high,Johannesburg South,Public,STEM drive,Launch,WhatsApp,Video,True,Both,Female,False,7.51,7.57,575,209.0,121.0,51.0,30.0,10.0,0.0,0.0,7.0
+10-06-2026,Rosebank Academy,Rosebank,Public,DIGITAL SKILLS PUSH,Close,IG,Story,True,Grade 12,All,True,198.68,228.08,3218,449.0,365.0,227.0,178.0,71.0,9.0,4.0,14.0
+21/05/2026,alexandra school,Alexandra,No-Fee Public,Career Day,Close,tiktok,Video,False,Grade 12,Female,True,0.0,0.0,11647,3633.0,699.0,515.0,350.0,183.0,12.0,5.0,33.0
+2026/04/11,ROSEBANK ACADEMY,Rosebank,Public,stem drive,Launch,TikTok,Video,False,Both,Female,False,0.0,0.0,5313,710.0,587.0,,263.0,126.0,10.0,5.0,35.0
+2026/05/26,Rosebank Academy,Rosebank,Public,literacy week,Close,fb,Video,False,Grade 12,All,False,0.0,0.0,326,18.0,8.0,4.0,2.0,0.0,0.0,,0.0
+2026-05-04,Alexandra School,Alexandra,No-Fee Public,digital skills push,Mid,facebook,Static,False,Grade 12,Male,False,0.0,0.0,1735,66.0,94.0,44.0,31.0,8.0,,0.0,3.0
+2026/04/28,MIDRAND HIGH,Midrand,Public,DIGITAL SKILLS PUSH,Mid,TikTok,Video,True,Grade 12,All,False,203.35,215.1,4952,1347.0,475.0,271.0,194.0,,8.0,3.0,16.0
+26-05-2026,RANDBURG HIGH,Randburg,Public,Digital Skills Push,Close,tiktok,Video,True,Both,All,True,71.76,78.34,3017,733.0,377.0,272.0,220.0,103.0,9.0,3.0,19.0
+10/06/2026,,Alexandra,No-Fee Public,LITERACY WEEK,Close,TikTok,Story,True,Grade 12,All,False,358.34,421.69,12477,2983.0,874.0,386.0,290.0,105.0,13.0,8.0,56.0
+2026/04/13,alexandra school,Alexandra,No-Fee Public,STEM Drive,Launch,TikTok,Story,True,Grade 11,All,True,634.77,690.89,19955,2145.0,2915.0,,1292.0,576.0,45.0,24.0,
+03-04-2026,RANDBURG HIGH,Randburg,Public,Digital Skills Push,Launch,WhatsApp,Static,True,Grade 12,Male,False,57.45,54.55,1937,615.0,456.0,261.0,217.0,109.0,12.0,5.0,15.0
+2026/06/01,ROSEBANK ACADEMY,Rosebank,Public,career day,Close,tiktok,Video,True,Grade 11,Male,True,141.33,135.07,3223,1085.0,132.0,83.0,62.0,16.0,1.0,0.0,7.0
+03-05-2026,Rosebank Academy,Rosebank,Public,stem drive,Mid,TikTok,Video,True,Grade 11,All,False,131.3,114.44,3850,1094.0,,220.0,130.0,45.0,5.0,2.0,15.0
+12-05-2026,alexandra school,Alexandra,No-Fee Public,CAREER DAY,Mid,instagram,Static,False,Both,Male,True,0.0,0.0,3288,255.0,326.0,217.0,183.0,81.0,,,19.0
+2026-06-07,Rosebank Academy,Rosebank,Public,digital skills push,Close,whatsapp,Carousel,True,Grade 12,Male,False,35.43,40.15,2891,883.0,,597.0,331.0,103.0,9.0,3.0,65.0
+25-04-2026,rosebank academy,Rosebank,Public,literacy week,Mid,TikTok,Video,True,Both,All,False,137.78,159.54,3152,1240.0,343.0,188.0,131.0,70.0,14.0,8.0,24.0
+30/04/2026,sandton college,Sandton,Public,Digital Skills Push,Mid,TikTok,Video,False,Grade 11,Female,True,0.0,0.0,2968,595.0,338.0,206.0,167.0,51.0,10.0,6.0,21.0
+02-05-2026,randburg high,Randburg,Public,literacy week,Mid,WhatsApp,Static,True,Grade 12,Female,False,15.24,16.81,585,159.0,105.0,49.0,31.0,8.0,2.0,1.0,2.0
+04-04-2026,sandton college,Sandton,Public,LITERACY WEEK,Launch,TT,Video,False,Grade 11,All,False,0.0,0.0,976,138.0,,52.0,28.0,,0.0,0.0,3.0
+2026-04-14,Alexandra School,Alexandra,No-Fee Public,digital skills push,Launch,TT,Video,True,Grade 11,Male,False,545.35,539.3,20438,4739.0,1730.0,1034.0,875.0,278.0,14.0,9.0,119.0
+2026/05/18,Brixton High,Johannesburg South,Public,STEM drive,Close,tiktok,Video,True,Both,Female,False,941.11,978.81,34844,11060.0,2081.0,1451.0,804.0,250.0,18.0,11.0,191.0
+24/04/2026,SANDTON COLLEGE,Sandton,Public,career day,Mid,Facebook,Static,False,Both,Female,False,0.0,0.0,1264,52.0,42.0,24.0,15.0,4.0,0.0,0.0,3.0
+20-04-2026,Brixton High,Johannesburg South,Public,stem drive,Mid,whatsapp,Static,True,Grade 12,Male,False,44.27,42.66,2016,397.0,348.0,186.0,107.0,55.0,14.0,9.0,19.0
+03-04-2026,sandton college,Sandton,Public,DIGITAL SKILLS PUSH,Launch,Insta,Video,False,Grade 12,Female,False,0.0,0.0,3379,508.0,351.0,220.0,160.0,54.0,6.0,3.0,21.0
+02-06-2026,,Randburg,Public,career day,Close,WA,Carousel,True,Grade 12,All,False,22.57,20.28,962,260.0,156.0,70.0,47.0,17.0,2.0,,7.0
+2026-05-29,Rosebank Academy,Rosebank,Public,DIGITAL SKILLS PUSH,Close,Facebook,Carousel,True,Grade 11,Male,False,149.43,157.1,3523,216.0,153.0,102.0,74.0,29.0,2.0,0.0,
+08/06/2026,rosebank academy,Rosebank,Public,career day,Close,Instagram,Static,False,Both,Male,False,0.0,0.0,9742,672.0,666.0,374.0,295.0,129.0,10.0,5.0,33.0
+01-05-2026,soweto academy,Soweto,No-Fee Public,DIGITAL SKILLS PUSH,Mid,facebook,Static,True,Both,Male,False,133.61,146.58,2704,88.0,153.0,65.0,38.0,10.0,0.0,0.0,7.0
+2026/06/02,Alexandra School,Alexandra,No-Fee Public,CAREER DAY,Close,fb,Static,False,Grade 11,Female,False,0.0,0.0,4683,183.0,329.0,187.0,107.0,27.0,1.0,0.0,14.0
+10-04-2026,Midrand High,Midrand,Public,STEM Drive,Launch,WhatsApp,Static,False,Grade 11,Female,True,0.0,0.0,200,27.0,63.0,27.0,21.0,6.0,0.0,0.0,3.0
+2026-05-30,ROSEBANK ACADEMY,Rosebank,Public,Career Day,Close,tiktok,Carousel,False,Grade 11,Female,True,0.0,0.0,8992,2398.0,1179.0,785.0,591.0,,30.0,14.0,71.0
+12/06/2026,midrand high,Midrand,Public,literacy week,Close,instagram,Carousel,True,Grade 12,Male,False,232.26,208.04,4517,863.0,455.0,324.0,252.0,66.0,10.0,6.0,16.0
+2026-04-30,Rosebank Academy,Rosebank,Public,STEM drive,Mid,Instagram,Carousel,True,Both,Male,True,116.09,101.84,2804,414.0,215.0,119.0,65.0,22.0,2.0,1.0,14.0
+2026-05-05,Alexandra School,Alexandra,No-Fee Public,STEM drive,Mid,WA,Carousel,False,Both,Male,False,0.0,0.0,709,318.0,95.0,42.0,32.0,11.0,0.0,0.0,3.0
+2026-05-03,Brixton High,Johannesburg South,Public,STEM Drive,Mid,WhatsApp,Carousel,True,Both,All,False,4.86,4.67,282,83.0,87.0,47.0,33.0,9.0,1.0,0.0,2.0
+2026/04/16,BRIXTON HIGH,Johannesburg South,Public,LITERACY WEEK,Mid,instagram,Video,True,Grade 11,All,False,244.3,262.65,4483,560.0,311.0,228.0,141.0,45.0,7.0,3.0,25.0
+19/05/2026,RANDBURG HIGH,Randburg,Public,Literacy Week,Close,Instagram,Video,True,Grade 12,Female,False,447.83,458.42,8320,1391.0,291.0,203.0,121.0,35.0,6.0,4.0,23.0
+2026/05/16,Soweto Academy,Soweto,No-Fee Public,stem drive,Close,WA,Static,True,Grade 11,All,False,60.8,68.8,4475,1415.0,1514.0,642.0,442.0,147.0,10.0,4.0,
+2026-04-17,Midrand High,Midrand,Public,CAREER DAY,Mid,tiktok,Video,False,Both,Male,True,0.0,0.0,2058,695.0,105.0,61.0,37.0,14.0,1.0,0.0,7.0
+26/04/2026,sandton college,Sandton,Public,stem drive,Mid,Facebook,Carousel,False,Grade 12,All,False,0.0,0.0,701,72.0,19.0,12.0,6.0,1.0,0.0,0.0,0.0
+2026-05-06,MIDRAND HIGH,Midrand,Public,Career Day,Mid,Facebook,Story,False,Grade 11,Female,False,0.0,0.0,896,24.0,60.0,26.0,14.0,6.0,0.0,0.0,
+28/04/2026,ALEXANDRA SCHOOL,Alexandra,No-Fee Public,DIGITAL SKILLS PUSH,Mid,WhatsApp,Static,True,Grade 12,Male,False,40.64,36.66,2148,521.0,546.0,342.0,239.0,123.0,14.0,5.0,30.0
+04-04-2026,midrand high,Midrand,Public,Literacy Week,Launch,TikTok,Video,True,Grade 11,Female,False,405.85,486.96,10361,4270.0,528.0,332.0,209.0,103.0,10.0,4.0,49.0
+12/04/2026,Randburg High,Randburg,Public,digital skills push,Launch,Facebook,Video,False,Grade 11,Male,True,0.0,0.0,876,82.0,59.0,30.0,18.0,8.0,1.0,0.0,1.0
+2026/06/04,ROSEBANK ACADEMY,Rosebank,Public,LITERACY WEEK,Close,TikTok,Video,True,Both,Female,False,282.21,307.88,10199,1613.0,1225.0,896.0,747.0,274.0,45.0,31.0,47.0
+05/05/2026,Soweto Academy,Soweto,No-Fee Public,Digital Skills Push,Mid,IG,Video,True,Grade 11,Female,True,,192.27,3731,983.0,408.0,233.0,154.0,63.0,3.0,1.0,31.0
+2026-04-19,,Alexandra,No-Fee Public,Digital Skills Push,Mid,IG,Static,True,Both,Female,True,386.16,422.47,9488,1070.0,907.0,447.0,283.0,90.0,6.0,3.0,59.0
+09-04-2026,MIDRAND HIGH,Midrand,Public,Digital Skills Push,Launch,facebook,Static,False,Grade 11,Female,False,0.0,0.0,763,32.0,25.0,12.0,6.0,2.0,0.0,0.0,1.0
+28-05-2026,ALEXANDRA SCHOOL,Alexandra,No-Fee Public,stem drive,Close,Insta,Carousel,False,Grade 11,Male,True,0.0,,1817,220.0,217.0,134.0,107.0,35.0,3.0,2.0,7.0
+2026/05/31,,Johannesburg South,Public,career day,Close,IG,Story,True,Grade 12,Female,False,171.09,155.74,3478,335.0,297.0,189.0,126.0,46.0,9.0,5.0,10.0
+2026-04-21,,Midrand,Public,Career Day,Mid,tiktok,Story,True,Grade 12,All,False,28.17,31.75,1316,122.0,155.0,83.0,65.0,,5.0,2.0,11.0
+2026-05-12,randburg high,Randburg,Public,DIGITAL SKILLS PUSH,Mid,Facebook,Static,False,Grade 12,All,True,0.0,,1697,108.0,113.0,53.0,32.0,10.0,1.0,0.0,5.0
+2026/04/25,soweto academy,Soweto,No-Fee Public,STEM drive,Mid,whatsapp,Static,False,Both,Female,True,0.0,0.0,798,229.0,,116.0,73.0,33.0,3.0,1.0,
+06/06/2026,midrand high,Midrand,Public,Literacy Week,Close,fb,Carousel,False,Both,Male,False,0.0,0.0,1344,112.0,82.0,51.0,35.0,18.0,1.0,0.0,3.0
+25-04-2026,RANDBURG HIGH,Randburg,Public,literacy week,Mid,Facebook,Carousel,True,Grade 11,Female,False,98.67,100.18,2262,91.0,61.0,38.0,26.0,9.0,,0.0,5.0
+08/06/2026,Sandton College,Sandton,Public,stem drive,Close,whatsapp,Static,True,Grade 11,All,False,8.99,7.66,460,104.0,130.0,95.0,77.0,36.0,3.0,1.0,4.0
+2026/06/13,ROSEBANK ACADEMY,Rosebank,Public,STEM drive,Close,Facebook,Static,False,Grade 11,Male,False,0.0,0.0,956,,26.0,17.0,12.0,3.0,0.0,0.0,0.0
+2026/04/21,ROSEBANK ACADEMY,Rosebank,Public,Career Day,Mid,Facebook,Video,False,Both,Female,False,0.0,0.0,1018,85.0,58.0,28.0,,8.0,1.0,0.0,3.0
+05/06/2026,brixton high,Johannesburg South,Public,career day,Close,IG,Static,True,Grade 12,Female,True,166.41,191.09,2718,196.0,247.0,135.0,78.0,39.0,10.0,4.0,8.0
+02-04-2026,,Rosebank,Public,stem drive,Launch,IG,Static,True,Grade 11,Male,False,,243.5,4816,358.0,299.0,122.0,92.0,46.0,4.0,1.0,17.0
+2026/04/30,Alexandra School,Alexandra,No-Fee Public,career day,Mid,WhatsApp,Carousel,False,Grade 12,All,True,0.0,0.0,882,420.0,100.0,62.0,37.0,18.0,3.0,1.0,3.0
+25-04-2026,MIDRAND HIGH,Midrand,Public,CAREER DAY,Mid,Insta,Video,False,Both,Male,False,0.0,0.0,13327,3290.0,1074.0,675.0,463.0,163.0,31.0,19.0,
+13-06-2026,sandton college,Sandton,Public,DIGITAL SKILLS PUSH,Close,TikTok,Carousel,True,Grade 12,Male,True,279.26,,6761,1987.0,412.0,213.0,165.0,43.0,9.0,5.0,13.0
+2026/05/01,SANDTON COLLEGE,Sandton,Public,stem drive,Mid,instagram,Static,False,Grade 12,All,False,0.0,0.0,3077,184.0,202.0,105.0,67.0,32.0,4.0,2.0,14.0
+2026/04/24,Soweto Academy,Soweto,No-Fee Public,CAREER DAY,Mid,facebook,Static,True,Both,All,False,98.45,112.88,2932,179.0,150.0,61.0,36.0,16.0,1.0,0.0,4.0
+08/06/2026,ALEXANDRA SCHOOL,Alexandra,No-Fee Public,literacy week,Close,Insta,Carousel,False,Both,Female,True,0.0,0.0,434,84.0,46.0,25.0,15.0,6.0,0.0,0.0,2.0
+2026-05-01,SOWETO ACADEMY,Soweto,No-Fee Public,CAREER DAY,Mid,fb,Story,False,Grade 11,Male,False,0.0,0.0,1311,103.0,49.0,33.0,23.0,6.0,0.0,0.0,4.0
+01-05-2026,,Randburg,Public,CAREER DAY,Mid,instagram,Carousel,False,Both,All,True,0.0,0.0,2576,288.0,261.0,114.0,71.0,33.0,3.0,1.0,14.0
+05-04-2026,rosebank academy,Rosebank,Public,digital skills push,Launch,Insta,Story,False,Both,Female,False,0.0,0.0,22402,2336.0,,577.0,326.0,159.0,,8.0,41.0
+2026/06/06,Alexandra School,Alexandra,No-Fee Public,CAREER DAY,Close,Facebook,Carousel,False,Grade 11,Female,True,0.0,,1148,73.0,59.0,26.0,17.0,8.0,0.0,0.0,1.0
+2026/04/06,Rosebank Academy,Rosebank,Public,STEM Drive,Launch,TikTok,Video,True,Grade 12,Male,False,219.3,244.05,10267,4281.0,1030.0,644.0,368.0,166.0,14.0,6.0,69.0
+23/04/2026,MIDRAND HIGH,Midrand,Public,STEM drive,Mid,Instagram,Static,False,Both,All,False,0.0,0.0,2365,163.0,173.0,96.0,75.0,29.0,2.0,,5.0
+20/04/2026,ALEXANDRA SCHOOL,Alexandra,No-Fee Public,DIGITAL SKILLS PUSH,Mid,TikTok,Video,False,Both,All,True,0.0,0.0,1006,230.0,41.0,19.0,15.0,8.0,,0.0,1.0
+28/05/2026,SOWETO ACADEMY,Soweto,No-Fee Public,digital skills push,Close,whatsapp,Static,True,Grade 11,All,False,77.65,88.69,2920,,689.0,317.0,236.0,84.0,5.0,3.0,32.0
+2026/04/20,Alexandra School,Alexandra,No-Fee Public,career day,Mid,TT,Video,False,Grade 11,Female,False,0.0,0.0,8325,2025.0,556.0,247.0,179.0,51.0,3.0,2.0,15.0
+29/05/2026,SANDTON COLLEGE,Sandton,Public,digital skills push,Close,TT,Static,False,Grade 11,All,False,0.0,0.0,8691,1186.0,912.0,438.0,291.0,82.0,5.0,,43.0
+24-04-2026,rosebank academy,Rosebank,Public,DIGITAL SKILLS PUSH,Mid,WA,Video,True,Both,Female,False,14.03,14.82,796,400.0,,148.0,85.0,24.0,3.0,1.0,20.0
+2026-05-06,SOWETO ACADEMY,Soweto,No-Fee Public,LITERACY WEEK,Mid,WhatsApp,Static,False,Both,Female,True,0.0,0.0,1775,344.0,423.0,206.0,132.0,,6.0,3.0,27.0
+2026/05/22,,Randburg,Public,STEM drive,Close,WA,Static,True,Grade 11,Female,True,6.33,7.56,358,86.0,,53.0,,20.0,3.0,1.0,4.0
+2026-05-02,MIDRAND HIGH,Midrand,Public,Digital Skills Push,Mid,TT,Carousel,True,Grade 11,Male,False,483.68,469.95,13990,4081.0,907.0,668.0,458.0,170.0,10.0,4.0,67.0
+2026-04-25,MIDRAND HIGH,Midrand,Public,digital skills push,Mid,IG,Video,False,Grade 12,All,True,0.0,0.0,17525,2569.0,1082.0,635.0,482.0,158.0,33.0,17.0,79.0
+2026/06/13,sandton college,Sandton,Public,STEM drive,Close,tiktok,Static,False,Grade 12,Male,True,0.0,0.0,1224,174.0,49.0,34.0,28.0,,2.0,0.0,4.0
+26-04-2026,midrand high,Midrand,Public,CAREER DAY,Mid,WhatsApp,Video,True,Both,Male,True,21.87,20.02,803,259.0,134.0,98.0,63.0,19.0,3.0,1.0,12.0
+2026/04/23,midrand high,Midrand,Public,career day,Mid,tiktok,Video,True,Both,All,False,,237.62,7861,1055.0,400.0,182.0,111.0,36.0,7.0,3.0,22.0
+2026/05/25,ROSEBANK ACADEMY,Rosebank,Public,digital skills push,Close,whatsapp,Static,False,Grade 12,Female,True,0.0,0.0,467,87.0,120.0,72.0,57.0,15.0,2.0,0.0,5.0
+03/04/2026,,Rosebank,Public,career day,Launch,tiktok,Video,True,Grade 11,Female,True,47.5,41.76,1214,241.0,69.0,43.0,35.0,11.0,0.0,0.0,4.0
+16-05-2026,rosebank academy,Rosebank,Public,Digital Skills Push,Close,fb,Static,True,Grade 11,Male,False,81.28,69.09,2383,146.0,168.0,87.0,60.0,15.0,1.0,0.0,8.0
+2026/04/24,Sandton College,Sandton,Public,LITERACY WEEK,Mid,Facebook,Static,True,Grade 12,Female,True,25.08,25.32,886,36.0,54.0,30.0,19.0,5.0,1.0,0.0,4.0
+18/04/2026,randburg high,Randburg,Public,stem drive,Mid,IG,Carousel,True,Both,Female,False,290.71,248.39,6259,1325.0,590.0,315.0,265.0,85.0,18.0,,38.0
+2026-05-09,Brixton High,Johannesburg South,Public,STEM Drive,Mid,WA,Video,True,Grade 12,All,False,5.33,5.99,492,198.0,122.0,64.0,36.0,10.0,1.0,0.0,
+2026/04/29,midrand high,Midrand,Public,literacy week,Mid,TikTok,Video,False,Both,Female,False,0.0,0.0,20028,5669.0,1514.0,853.0,691.0,296.0,59.0,26.0,87.0
+03-05-2026,RANDBURG HIGH,Randburg,Public,DIGITAL SKILLS PUSH,Mid,TT,Video,False,Both,Male,False,0.0,,1538,425.0,72.0,,28.0,14.0,1.0,0.0,2.0
+21/04/2026,ROSEBANK ACADEMY,Rosebank,Public,Career Day,Mid,fb,Story,False,Grade 12,Female,True,0.0,0.0,1035,73.0,72.0,30.0,18.0,7.0,1.0,0.0,2.0
+26-04-2026,midrand high,Midrand,Public,Literacy Week,Mid,TT,Video,False,Grade 12,Female,False,,0.0,8909,,1165.0,597.0,,153.0,26.0,14.0,74.0
+2026-04-12,ROSEBANK ACADEMY,Rosebank,Public,Literacy Week,Launch,TT,Video,True,Grade 11,Male,False,41.56,39.69,1574,458.0,161.0,76.0,43.0,14.0,0.0,0.0,10.0
+03/04/2026,rosebank academy,Rosebank,Public,CAREER DAY,Launch,WA,Static,False,Grade 12,All,False,,0.0,779,198.0,272.0,201.0,155.0,65.0,4.0,2.0,25.0
+08/04/2026,,Sandton,Public,STEM Drive,Launch,TikTok,Carousel,False,Grade 12,All,True,0.0,0.0,15334,2753.0,1154.0,701.0,390.0,133.0,30.0,17.0,104.0
+24/04/2026,SOWETO ACADEMY,Soweto,No-Fee Public,Career Day,Mid,facebook,Video,True,Grade 11,All,True,23.91,,730,77.0,20.0,12.0,6.0,2.0,,0.0,0.0
+25/05/2026,SANDTON COLLEGE,Sandton,Public,Digital Skills Push,Close,IG,Carousel,True,Both,All,True,367.77,404.31,7097,388.0,,405.0,282.0,133.0,11.0,6.0,34.0
+03/04/2026,midrand high,Midrand,Public,STEM drive,Launch,WA,Video,True,Grade 12,All,False,16.56,17.21,1297,680.0,409.0,207.0,157.0,63.0,4.0,2.0,30.0
+2026/06/07,Rosebank Academy,Rosebank,Public,literacy week,Close,tiktok,Video,False,Grade 11,Male,False,0.0,0.0,8604,,563.0,,236.0,107.0,9.0,4.0,39.0
+2026-05-17,brixton high,Johannesburg South,Public,STEM Drive,Close,WhatsApp,Static,False,Grade 12,Female,False,0.0,0.0,279,79.0,78.0,41.0,34.0,,2.0,1.0,4.0
+10/04/2026,randburg high,Randburg,Public,literacy week,Launch,WA,Carousel,True,Grade 11,All,True,11.57,12.76,608,130.0,179.0,130.0,98.0,28.0,2.0,1.0,8.0
+19/04/2026,Alexandra School,Alexandra,No-Fee Public,stem drive,Mid,WhatsApp,Video,False,Grade 11,Female,False,0.0,0.0,958,279.0,,145.0,93.0,44.0,3.0,1.0,8.0
+21/05/2026,ALEXANDRA SCHOOL,Alexandra,No-Fee Public,CAREER DAY,Close,TT,Video,False,Both,All,True,0.0,0.0,5047,1134.0,282.0,116.0,83.0,,2.0,0.0,7.0
+2026/06/10,randburg high,Randburg,Public,career day,Close,whatsapp,Video,True,Grade 12,Male,False,25.49,23.54,1395,423.0,159.0,95.0,80.0,32.0,2.0,1.0,10.0
+2026/04/05,Rosebank Academy,Rosebank,Public,literacy week,Launch,tiktok,Video,False,Both,Male,True,0.0,0.0,5329,712.0,418.0,285.0,174.0,76.0,10.0,4.0,
+17/04/2026,sandton college,Sandton,Public,digital skills push,Mid,tiktok,Static,True,Both,Female,False,89.24,92.13,4170,643.0,477.0,283.0,157.0,66.0,8.0,5.0,
+2026/05/25,Midrand High,Midrand,Public,Career Day,Close,WA,Static,True,Grade 12,Male,True,15.22,14.01,1416,196.0,320.0,217.0,178.0,,8.0,4.0,29.0
+2026-06-04,Brixton High,Johannesburg South,Public,LITERACY WEEK,Close,whatsapp,Video,True,Both,All,False,39.59,38.1,1422,422.0,240.0,122.0,83.0,23.0,1.0,,
+09-05-2026,ROSEBANK ACADEMY,Rosebank,Public,CAREER DAY,Mid,Insta,Video,False,Grade 12,Male,False,0.0,0.0,1283,197.0,79.0,40.0,24.0,11.0,2.0,0.0,5.0
+27-04-2026,Sandton College,Sandton,Public,LITERACY WEEK,Mid,Facebook,Video,True,Grade 12,Male,False,454.44,482.41,9460,410.0,247.0,169.0,133.0,46.0,10.0,6.0,17.0
+2026-04-10,Rosebank Academy,Rosebank,Public,career day,Launch,WA,Static,True,Grade 12,All,False,29.17,30.9,1610,413.0,401.0,275.0,178.0,78.0,5.0,2.0,17.0
+03-05-2026,ROSEBANK ACADEMY,Rosebank,Public,literacy week,Mid,Insta,Static,False,Both,Female,False,0.0,0.0,835,117.0,25.0,14.0,11.0,3.0,0.0,0.0,1.0
+07-04-2026,rosebank academy,Rosebank,Public,STEM Drive,Launch,tiktok,Video,False,Grade 11,All,False,0.0,0.0,7496,1208.0,964.0,675.0,552.0,253.0,25.0,14.0,64.0
+2026/05/06,,Rosebank,Public,literacy week,Mid,Instagram,Story,False,Grade 11,Male,False,0.0,0.0,1015,80.0,77.0,44.0,32.0,10.0,1.0,,5.0
+02/04/2026,ROSEBANK ACADEMY,Rosebank,Public,LITERACY WEEK,Launch,facebook,Static,True,Grade 11,All,False,251.71,239.22,5756,118.0,289.0,201.0,127.0,,2.0,1.0,10.0
+09/06/2026,randburg high,Randburg,Public,stem drive,Close,whatsapp,Static,False,Grade 12,Male,False,0.0,0.0,1496,431.0,169.0,83.0,66.0,17.0,2.0,1.0,8.0
+2026-04-15,,Alexandra,No-Fee Public,Literacy Week,Mid,WA,Static,True,Grade 12,Female,False,13.62,13.78,628,160.0,100.0,63.0,,19.0,2.0,1.0,5.0
+2026/04/12,alexandra school,Alexandra,No-Fee Public,Career Day,Launch,IG,Static,False,Grade 12,All,False,0.0,0.0,5808,257.0,270.0,135.0,100.0,27.0,1.0,0.0,17.0
+11-04-2026,sandton college,Sandton,Public,digital skills push,Launch,Insta,Static,False,Grade 11,All,False,0.0,0.0,3538,142.0,288.0,140.0,95.0,49.0,2.0,1.0,
+16-04-2026,ROSEBANK ACADEMY,Rosebank,Public,DIGITAL SKILLS PUSH,Mid,Insta,Story,False,Grade 12,Female,False,0.0,0.0,5114,269.0,399.0,293.0,168.0,65.0,15.0,8.0,19.0
+12/06/2026,MIDRAND HIGH,Midrand,Public,Digital Skills Push,Close,Instagram,Static,False,Grade 12,All,False,0.0,0.0,13455,,812.0,529.0,355.0,111.0,,10.0,76.0
+15/05/2026,Randburg High,Randburg,Public,career day,Mid,WhatsApp,Static,True,Grade 11,Male,False,13.1,12.06,1163,218.0,359.0,236.0,158.0,45.0,,3.0,19.0
+2026-04-10,ALEXANDRA SCHOOL,Alexandra,No-Fee Public,digital skills push,Launch,TT,Video,True,Grade 11,Male,True,141.83,141.22,3363,1218.0,420.0,,164.0,72.0,4.0,2.0,38.0
+09-06-2026,Randburg High,Randburg,Public,STEM Drive,Close,WA,Static,True,Grade 12,Male,False,22.5,22.86,766,118.0,204.0,84.0,62.0,20.0,2.0,1.0,10.0
+2026/05/05,soweto academy,Soweto,No-Fee Public,STEM Drive,Mid,Instagram,Video,False,Both,Female,True,0.0,,1171,189.0,128.0,57.0,47.0,18.0,1.0,0.0,6.0
+01-04-2026,,Rosebank,Public,stem drive,Launch,TT,Static,False,Grade 12,Male,False,0.0,,3344,607.0,224.0,115.0,83.0,42.0,5.0,2.0,
+2026-04-12,ROSEBANK ACADEMY,Rosebank,Public,DIGITAL SKILLS PUSH,Launch,tiktok,Video,True,Both,Male,False,263.19,276.25,8360,2467.0,1232.0,692.0,409.0,188.0,11.0,7.0,77.0
+04/04/2026,brixton high,Johannesburg South,Public,literacy week,Launch,Insta,Carousel,True,Both,Male,True,233.35,256.28,6305,519.0,745.0,360.0,210.0,82.0,14.0,8.0,52.0
+03-04-2026,alexandra school,Alexandra,No-Fee Public,LITERACY WEEK,Launch,Instagram,Story,True,Grade 11,Male,True,470.42,426.99,12609,702.0,546.0,247.0,150.0,80.0,2.0,1.0,29.0
+20/04/2026,Alexandra School,Alexandra,No-Fee Public,Digital Skills Push,Mid,whatsapp,Video,False,Grade 12,Male,True,0.0,0.0,671,363.0,91.0,45.0,37.0,16.0,1.0,0.0,3.0
+06/06/2026,ALEXANDRA SCHOOL,Alexandra,No-Fee Public,literacy week,Close,IG,Carousel,False,Grade 12,Male,False,0.0,0.0,9028,1261.0,683.0,427.0,272.0,141.0,17.0,10.0,63.0
+2026/05/29,brixton high,Johannesburg South,Public,stem drive,Close,tiktok,Carousel,True,Grade 11,Male,False,256.39,305.5,5835,1112.0,548.0,334.0,234.0,62.0,6.0,3.0,40.0
+20/05/2026,Midrand High,Midrand,Public,digital skills push,Close,TT,Video,True,Grade 11,Male,False,4073.68,4793.11,143513,42652.0,11672.0,4695.0,3482.0,1156.0,72.0,38.0,501.0
+2026-05-07,rosebank academy,Rosebank,Public,DIGITAL SKILLS PUSH,Mid,Instagram,Story,True,Grade 12,Male,False,275.93,261.31,7152,,257.0,169.0,122.0,51.0,13.0,7.0,16.0
+26/04/2026,Soweto Academy,Soweto,No-Fee Public,career day,Mid,facebook,Static,True,Grade 11,All,False,64.87,58.93,1510,51.0,58.0,40.0,31.0,10.0,0.0,0.0,4.0
+19/04/2026,alexandra school,Alexandra,No-Fee Public,Career Day,Mid,WhatsApp,Video,True,Grade 11,Male,True,14.86,17.26,564,253.0,,85.0,64.0,16.0,,0.0,11.0
+09/04/2026,MIDRAND HIGH,Midrand,Public,Career Day,Launch,fb,Carousel,False,Grade 11,Male,False,0.0,0.0,1970,77.0,80.0,34.0,27.0,,1.0,0.0,2.0
+2026-04-16,randburg high,Randburg,Public,digital skills push,Mid,facebook,Video,True,Both,Male,False,63.96,59.46,2035,85.0,160.0,70.0,40.0,11.0,2.0,1.0,7.0
+10-04-2026,Randburg High,Randburg,Public,digital skills push,Launch,fb,Story,True,Grade 12,All,False,138.74,124.89,5036,241.0,279.0,121.0,100.0,54.0,3.0,2.0,10.0
+18-05-2026,midrand high,Midrand,Public,LITERACY WEEK,Close,tiktok,Video,True,Grade 12,Female,False,213.32,185.27,9485,1332.0,1086.0,803.0,533.0,,23.0,13.0,47.0
+30/04/2026,,Soweto,No-Fee Public,digital skills push,Mid,whatsapp,Video,False,Both,All,True,0.0,0.0,632,174.0,176.0,100.0,58.0,26.0,3.0,1.0,10.0
+03-05-2026,,Alexandra,No-Fee Public,career day,Mid,fb,Carousel,True,Grade 12,Female,False,,53.43,1137,114.0,27.0,13.0,8.0,2.0,0.0,0.0,1.0
+2026/04/18,rosebank academy,Rosebank,Public,LITERACY WEEK,Mid,tiktok,Video,True,Grade 12,Male,False,63.81,66.21,1556,320.0,70.0,52.0,34.0,10.0,2.0,0.0,6.0
+01/06/2026,alexandra school,Alexandra,No-Fee Public,Digital Skills Push,Close,TikTok,Video,False,Both,Male,True,0.0,0.0,2227,579.0,318.0,186.0,136.0,65.0,5.0,2.0,20.0
+2026-05-12,SANDTON COLLEGE,Sandton,Public,Literacy Week,Mid,TikTok,Video,True,Grade 11,Male,False,606.55,608.16,17842,5603.0,786.0,358.0,211.0,69.0,10.0,5.0,24.0
+12/04/2026,rosebank academy,Rosebank,Public,STEM Drive,Launch,TikTok,Carousel,False,Grade 11,All,False,0.0,0.0,4607,991.0,230.0,,109.0,37.0,3.0,1.0,18.0
+2026-05-13,SANDTON COLLEGE,Sandton,Public,literacy week,Mid,tiktok,Carousel,False,Grade 12,Male,False,,0.0,924,265.0,42.0,30.0,22.0,7.0,1.0,0.0,3.0
+2026-05-30,Midrand High,Midrand,Public,Literacy Week,Close,WA,Carousel,True,Grade 11,Female,False,42.44,49.1,1743,,533.0,343.0,240.0,85.0,8.0,5.0,42.0
+02/06/2026,Rosebank Academy,Rosebank,Public,STEM Drive,Close,whatsapp,Static,True,Grade 12,All,True,29.58,28.06,1787,244.0,342.0,183.0,121.0,60.0,12.0,4.0,9.0
+10-04-2026,Midrand High,Midrand,Public,DIGITAL SKILLS PUSH,Launch,WA,Static,True,Grade 11,Female,False,14.97,,552,176.0,94.0,59.0,39.0,14.0,0.0,0.0,4.0
+03/05/2026,brixton high,Johannesburg South,Public,career day,Mid,IG,Video,False,Grade 12,All,False,0.0,0.0,2802,194.0,148.0,91.0,58.0,,3.0,2.0,9.0
+2026/04/30,Rosebank Academy,Rosebank,Public,literacy week,Mid,WhatsApp,Static,True,Both,Female,False,27.06,27.65,1094,,261.0,188.0,139.0,53.0,5.0,2.0,12.0
+2026-04-05,brixton high,Johannesburg South,Public,STEM Drive,Launch,facebook,Video,False,Both,Female,False,0.0,0.0,536,16.0,35.0,16.0,13.0,4.0,,0.0,1.0
+05/04/2026,Midrand High,Midrand,Public,literacy week,Launch,TT,Video,True,Both,Female,True,349.24,343.47,7974,1911.0,475.0,350.0,283.0,78.0,12.0,5.0,44.0
+10-06-2026,alexandra school,Alexandra,No-Fee Public,Digital Skills Push,Close,IG,Story,True,Both,Male,True,264.18,267.41,5838,416.0,,243.0,,74.0,6.0,2.0,22.0
+15/05/2026,Alexandra School,Alexandra,No-Fee Public,LITERACY WEEK,Mid,fb,Video,True,Both,Male,False,155.01,153.08,5088,197.0,,186.0,,52.0,5.0,2.0,14.0
+05/05/2026,rosebank academy,Rosebank,Public,DIGITAL SKILLS PUSH,Mid,Facebook,Story,False,Grade 12,All,False,0.0,0.0,3112,89.0,64.0,28.0,15.0,8.0,2.0,0.0,
+14-05-2026,Midrand High,Midrand,Public,STEM drive,Mid,TikTok,Static,True,Grade 12,Male,True,57.37,57.11,1863,266.0,193.0,126.0,107.0,27.0,6.0,3.0,15.0
+27-05-2026,Brixton High,Johannesburg South,Public,stem drive,Close,fb,Static,True,Grade 12,Male,False,71.61,82.26,1360,76.0,65.0,46.0,35.0,12.0,1.0,0.0,5.0
+2026/06/13,Brixton High,Johannesburg South,Public,CAREER DAY,Close,fb,Carousel,False,Grade 11,Male,False,0.0,0.0,2022,121.0,115.0,50.0,30.0,9.0,0.0,0.0,2.0
+04-04-2026,brixton high,Johannesburg South,Public,Career Day,Launch,Instagram,Video,True,Grade 11,Female,False,366.59,405.59,7306,590.0,644.0,333.0,196.0,98.0,6.0,3.0,42.0
+2026/06/05,midrand high,Midrand,Public,DIGITAL SKILLS PUSH,Close,fb,Carousel,False,Grade 11,All,False,0.0,0.0,2022,215.0,60.0,,19.0,8.0,0.0,0.0,1.0
+05/06/2026,,Sandton,Public,DIGITAL SKILLS PUSH,Close,fb,Static,False,Grade 12,Male,True,0.0,0.0,29207,1643.0,2126.0,1237.0,881.0,276.0,55.0,27.0,103.0
+06/05/2026,RANDBURG HIGH,Randburg,Public,CAREER DAY,Mid,WhatsApp,Static,False,Grade 12,Female,False,0.0,0.0,991,296.0,254.0,149.0,108.0,38.0,5.0,3.0,18.0
+19-04-2026,SANDTON COLLEGE,Sandton,Public,DIGITAL SKILLS PUSH,Mid,TT,Video,False,Both,Female,False,0.0,0.0,12697,3423.0,1099.0,608.0,504.0,200.0,43.0,27.0,39.0
+2026/04/02,Brixton High,Johannesburg South,Public,literacy week,Launch,facebook,Video,False,Grade 12,Female,False,0.0,0.0,2873,129.0,159.0,66.0,54.0,27.0,2.0,1.0,6.0
+2026/06/09,MIDRAND HIGH,Midrand,Public,DIGITAL SKILLS PUSH,Close,TT,Video,False,Both,All,False,0.0,0.0,7454,996.0,847.0,470.0,297.0,82.0,6.0,,53.0
+18/04/2026,alexandra school,Alexandra,No-Fee Public,stem drive,Mid,Instagram,Video,True,Both,All,False,178.71,154.72,3798,915.0,,66.0,44.0,22.0,1.0,0.0,4.0
+2026/05/16,SOWETO ACADEMY,Soweto,No-Fee Public,LITERACY WEEK,Close,WhatsApp,Static,True,Grade 11,Male,False,37.86,38.87,1877,581.0,314.0,160.0,114.0,30.0,0.0,0.0,22.0
+2026/05/22,Sandton College,Sandton,Public,STEM drive,Close,WA,Static,False,Grade 11,Male,False,0.0,0.0,387,59.0,44.0,31.0,19.0,6.0,0.0,0.0,4.0
+02-06-2026,rosebank academy,Rosebank,Public,LITERACY WEEK,Close,fb,Static,False,Grade 12,Male,False,0.0,,1108,38.0,82.0,36.0,29.0,12.0,0.0,0.0,2.0
+13/05/2026,Randburg High,Randburg,Public,CAREER DAY,Mid,Insta,Story,True,Grade 12,Male,True,168.69,164.51,2693,141.0,229.0,115.0,88.0,28.0,7.0,3.0,8.0
+2026-05-05,rosebank academy,Rosebank,Public,career day,Mid,tiktok,Video,False,Grade 11,All,False,0.0,0.0,3984,1637.0,456.0,,211.0,,6.0,3.0,32.0
+2026/04/14,Midrand High,Midrand,Public,STEM Drive,Launch,facebook,Static,True,Grade 11,All,False,1099.35,1010.2,20936,720.0,497.0,307.0,171.0,64.0,2.0,1.0,44.0
+2026-05-10,brixton high,Johannesburg South,Public,career day,Mid,WA,Static,True,Grade 11,Male,False,6.49,6.5,292,40.0,33.0,13.0,10.0,3.0,0.0,0.0,1.0
+19-04-2026,randburg high,Randburg,Public,stem drive,Mid,tiktok,Video,False,Grade 12,Female,False,0.0,0.0,7745,1069.0,575.0,317.0,265.0,126.0,,13.0,40.0
+15/04/2026,ROSEBANK ACADEMY,Rosebank,Public,STEM drive,Mid,instagram,Static,False,Both,All,False,0.0,0.0,571,79.0,48.0,26.0,15.0,5.0,0.0,0.0,1.0
+06/05/2026,brixton high,Johannesburg South,Public,Career Day,Mid,tiktok,Video,True,Both,Female,True,85.31,98.95,3503,1175.0,271.0,160.0,96.0,24.0,6.0,4.0,8.0
+24/05/2026,BRIXTON HIGH,Johannesburg South,Public,career day,Close,TikTok,Video,True,Grade 11,Male,False,648.74,695.87,21105,8363.0,2615.0,1583.0,1276.0,431.0,26.0,12.0,178.0
+2026/04/26,SANDTON COLLEGE,Sandton,Public,Literacy Week,Mid,facebook,Static,True,Grade 12,Female,False,144.65,124.81,3402,96.0,109.0,76.0,50.0,17.0,4.0,2.0,10.0
+2026/04/23,MIDRAND HIGH,Midrand,Public,CAREER DAY,Mid,tiktok,Video,False,Grade 11,Female,False,0.0,0.0,1112,159.0,78.0,37.0,21.0,7.0,0.0,0.0,4.0
+28/04/2026,midrand high,Midrand,Public,DIGITAL SKILLS PUSH,Mid,Instagram,Carousel,True,Grade 11,Female,False,87.8,92.67,2090,294.0,150.0,,66.0,18.0,2.0,1.0,14.0
+03-05-2026,MIDRAND HIGH,Midrand,Public,Literacy Week,Mid,Facebook,Static,True,Grade 11,Male,False,178.48,189.38,4066,,292.0,216.0,132.0,48.0,5.0,2.0,13.0
+12-04-2026,Rosebank Academy,Rosebank,Public,career day,Launch,WA,Static,False,Grade 11,Female,False,0.0,0.0,398,90.0,87.0,36.0,30.0,15.0,0.0,0.0,3.0
+27/04/2026,ALEXANDRA SCHOOL,Alexandra,No-Fee Public,digital skills push,Mid,WA,Video,False,Grade 11,Female,False,0.0,0.0,773,403.0,152.0,104.0,83.0,31.0,1.0,0.0,9.0
+2026-05-28,Midrand High,Midrand,Public,DIGITAL SKILLS PUSH,Close,instagram,Video,False,Grade 11,All,False,0.0,0.0,2542,422.0,181.0,77.0,58.0,27.0,2.0,1.0,10.0
+2026-04-11,sandton college,Sandton,Public,career day,Launch,Instagram,Video,True,Both,Female,False,82.77,,1916,186.0,180.0,128.0,90.0,34.0,,,
+06/04/2026,Randburg High,Randburg,Public,stem drive,Launch,Instagram,Story,False,Both,Male,True,0.0,0.0,16806,1431.0,1452.0,898.0,745.0,274.0,31.0,14.0,54.0
+01/06/2026,BRIXTON HIGH,Johannesburg South,Public,STEM Drive,Close,Facebook,Static,True,Both,All,False,,132.09,5000,293.0,306.0,227.0,170.0,45.0,2.0,1.0,21.0
+2026-04-04,MIDRAND HIGH,Midrand,Public,STEM drive,Launch,instagram,Static,False,Grade 12,All,True,0.0,0.0,394,14.0,39.0,,16.0,7.0,0.0,0.0,1.0
+06-04-2026,sandton college,Sandton,Public,stem drive,Launch,Insta,Carousel,True,Grade 11,Male,False,220.5,202.67,5523,658.0,466.0,235.0,,91.0,4.0,2.0,23.0
+2026/05/08,alexandra school,Alexandra,No-Fee Public,STEM drive,Mid,TT,Video,True,Grade 12,Female,False,60.88,61.75,2600,432.0,158.0,63.0,44.0,20.0,2.0,1.0,9.0
+06/05/2026,Soweto Academy,Soweto,No-Fee Public,Digital Skills Push,Mid,fb,Static,True,Grade 12,All,False,229.14,251.43,6393,112.0,383.0,173.0,126.0,67.0,5.0,2.0,18.0
+29-05-2026,ALEXANDRA SCHOOL,Alexandra,No-Fee Public,digital skills push,Close,Facebook,Static,True,Both,Male,False,79.87,75.41,1616,44.0,104.0,67.0,36.0,10.0,0.0,0.0,8.0
+2026-05-24,RANDBURG HIGH,Randburg,Public,STEM Drive,Close,Facebook,Story,False,Grade 12,All,True,0.0,0.0,1221,31.0,33.0,13.0,7.0,2.0,0.0,0.0,0.0
+07/06/2026,rosebank academy,Rosebank,Public,LITERACY WEEK,Close,fb,Story,True,Both,Female,True,125.46,111.04,3594,186.0,,145.0,118.0,34.0,5.0,3.0,11.0
+2026-04-10,Rosebank Academy,Rosebank,Public,Literacy Week,Launch,whatsapp,Static,False,Both,All,False,0.0,0.0,1219,262.0,322.0,207.0,120.0,43.0,4.0,2.0,28.0
+12/05/2026,ROSEBANK ACADEMY,Rosebank,Public,CAREER DAY,Mid,Instagram,Static,False,Grade 11,Female,False,0.0,0.0,828,70.0,91.0,40.0,23.0,9.0,1.0,0.0,4.0
+06/04/2026,BRIXTON HIGH,Johannesburg South,Public,LITERACY WEEK,Launch,instagram,Carousel,False,Both,Male,True,0.0,,1806,376.0,147.0,58.0,32.0,13.0,2.0,1.0,4.0
+10/05/2026,ROSEBANK ACADEMY,Rosebank,Public,Career Day,Mid,facebook,Story,False,Grade 11,Female,False,0.0,0.0,916,50.0,57.0,30.0,,8.0,1.0,0.0,3.0
+2026/04/30,Midrand High,Midrand,Public,DIGITAL SKILLS PUSH,Mid,instagram,Video,False,Both,Male,False,0.0,,1355,306.0,146.0,61.0,50.0,17.0,2.0,1.0,5.0
+2026-05-28,brixton high,Johannesburg South,Public,CAREER DAY,Close,facebook,Video,False,Grade 11,Male,False,0.0,0.0,5499,526.0,243.0,100.0,62.0,24.0,2.0,,11.0
+10-05-2026,Alexandra School,Alexandra,No-Fee Public,DIGITAL SKILLS PUSH,Mid,fb,Video,True,Both,Male,False,136.55,122.05,4022,258.0,252.0,176.0,125.0,46.0,4.0,2.0,23.0
+2026/04/13,RANDBURG HIGH,Randburg,Public,Literacy Week,Launch,Insta,Carousel,True,Both,Male,False,65.58,58.61,1747,171.0,204.0,93.0,78.0,34.0,2.0,0.0,13.0
+2026/05/08,SOWETO ACADEMY,Soweto,No-Fee Public,STEM Drive,Mid,TT,Video,True,Grade 12,Female,False,390.52,384.12,14807,5790.0,1243.0,533.0,333.0,125.0,17.0,,30.0
+2026/05/01,BRIXTON HIGH,Johannesburg South,Public,literacy week,Mid,Instagram,Static,True,Grade 12,Male,True,2307.66,2079.7,39554,4801.0,2160.0,938.0,791.0,250.0,93.0,59.0,58.0
+2026/04/29,rosebank academy,Rosebank,Public,digital skills push,Mid,whatsapp,Carousel,False,Both,All,False,0.0,0.0,1370,356.0,451.0,281.0,185.0,89.0,15.0,7.0,26.0
+2026-04-07,BRIXTON HIGH,Johannesburg South,Public,STEM drive,Launch,Instagram,Video,False,Both,Female,False,0.0,0.0,621,92.0,47.0,30.0,20.0,8.0,1.0,0.0,3.0
+2026/04/24,alexandra school,Alexandra,No-Fee Public,Digital Skills Push,Mid,TikTok,Static,True,Both,Male,True,95.29,82.69,3305,473.0,194.0,143.0,93.0,42.0,,3.0,19.0
+05/04/2026,midrand high,Midrand,Public,career day,Launch,facebook,Static,True,Grade 12,Female,False,300.13,256.04,8098,324.0,257.0,150.0,122.0,45.0,7.0,2.0,19.0
+13-04-2026,RANDBURG HIGH,Randburg,Public,STEM drive,Launch,Insta,Video,False,Grade 12,Female,False,0.0,0.0,1290,207.0,115.0,56.0,,15.0,,1.0,4.0
+01/05/2026,Alexandra School,Alexandra,No-Fee Public,CAREER DAY,Mid,WA,Carousel,True,Grade 11,Female,True,26.67,29.83,1779,781.0,,301.0,239.0,73.0,8.0,5.0,
+2026-04-05,midrand high,Midrand,Public,literacy week,Launch,tiktok,Video,True,Grade 11,All,True,377.67,445.67,12983,4329.0,872.0,621.0,375.0,93.0,10.0,4.0,48.0
+2026/04/25,ALEXANDRA SCHOOL,Alexandra,No-Fee Public,Literacy Week,Mid,TT,Video,False,Grade 12,Male,True,0.0,,1313,388.0,184.0,115.0,69.0,31.0,6.0,2.0,12.0
+08-04-2026,MIDRAND HIGH,Midrand,Public,career day,Launch,WA,Static,True,Both,Male,False,24.78,29.35,1569,207.0,538.0,251.0,199.0,79.0,7.0,3.0,14.0
+2026/05/27,soweto academy,Soweto,No-Fee Public,STEM drive,Close,fb,Static,True,Grade 11,Male,True,8.48,9.83,288,19.0,10.0,6.0,4.0,,0.0,0.0,0.0
+27/05/2026,soweto academy,Soweto,No-Fee Public,Career Day,Close,Insta,Static,False,Both,Female,False,0.0,0.0,970,55.0,52.0,31.0,24.0,,0.0,0.0,3.0
+2026-04-04,alexandra school,Alexandra,No-Fee Public,STEM drive,Launch,Instagram,Carousel,False,Grade 12,All,True,0.0,,1944,357.0,163.0,86.0,47.0,23.0,2.0,1.0,4.0
+2026/04/19,RANDBURG HIGH,Randburg,Public,STEM drive,Mid,facebook,Video,False,Grade 11,All,False,0.0,0.0,493,20.0,18.0,10.0,8.0,2.0,0.0,0.0,0.0
+2026-05-07,Soweto Academy,Soweto,No-Fee Public,Career Day,Mid,instagram,Video,False,Both,Female,False,0.0,0.0,10605,1307.0,1098.0,573.0,333.0,174.0,18.0,12.0,75.0
+17-04-2026,SANDTON COLLEGE,Sandton,Public,STEM drive,Mid,WA,Static,False,Grade 12,All,False,0.0,0.0,244,75.0,80.0,42.0,30.0,12.0,2.0,1.0,3.0
+11/05/2026,Soweto Academy,Soweto,No-Fee Public,STEM Drive,Mid,Facebook,Static,True,Both,Female,False,40.06,,1375,76.0,58.0,23.0,19.0,6.0,0.0,0.0,1.0
+07/06/2026,rosebank academy,Rosebank,Public,literacy week,Close,WhatsApp,Static,True,Grade 12,Male,False,26.12,26.8,1044,127.0,321.0,204.0,165.0,68.0,13.0,8.0,20.0
+2026/05/14,Randburg High,Randburg,Public,DIGITAL SKILLS PUSH,Mid,WhatsApp,Static,True,Grade 12,Male,False,52.42,46.47,3404,655.0,,518.0,322.0,,11.0,5.0,26.0
+20/04/2026,RANDBURG HIGH,Randburg,Public,LITERACY WEEK,Mid,WhatsApp,Static,True,Grade 12,All,True,8.65,10.07,520,114.0,117.0,78.0,43.0,21.0,5.0,3.0,4.0
+2026/05/20,ALEXANDRA SCHOOL,Alexandra,No-Fee Public,Literacy Week,Close,whatsapp,Static,False,Grade 12,All,True,0.0,0.0,1501,296.0,228.0,139.0,79.0,23.0,3.0,1.0,18.0
+2026-05-13,MIDRAND HIGH,Midrand,Public,Literacy Week,Mid,WA,Video,True,Grade 11,All,False,20.85,22.24,1147,550.0,241.0,139.0,102.0,35.0,2.0,1.0,13.0
+16/04/2026,rosebank academy,Rosebank,Public,Career Day,Mid,facebook,Static,True,Grade 12,Male,False,77.38,86.58,1469,39.0,58.0,29.0,24.0,9.0,2.0,1.0,
+2026/04/21,randburg high,Randburg,Public,DIGITAL SKILLS PUSH,Mid,fb,Video,True,Grade 11,Male,True,176.33,175.78,4575,240.0,336.0,156.0,88.0,45.0,6.0,4.0,12.0
+15/05/2026,ALEXANDRA SCHOOL,Alexandra,No-Fee Public,STEM drive,Mid,Facebook,Static,False,Both,All,False,,0.0,1570,107.0,78.0,39.0,30.0,13.0,0.0,0.0,5.0
+10/04/2026,BRIXTON HIGH,Johannesburg South,Public,literacy week,Launch,fb,Story,False,Both,Male,False,0.0,0.0,828,36.0,43.0,25.0,19.0,5.0,0.0,0.0,1.0
+10-05-2026,alexandra school,Alexandra,No-Fee Public,DIGITAL SKILLS PUSH,Mid,Insta,Static,False,Both,Male,False,,0.0,2598,330.0,127.0,85.0,60.0,17.0,2.0,1.0,7.0
+11-04-2026,MIDRAND HIGH,Midrand,Public,career day,Launch,instagram,Static,False,Both,All,False,0.0,0.0,1725,101.0,202.0,94.0,69.0,34.0,3.0,1.0,5.0
+04/04/2026,SOWETO ACADEMY,Soweto,No-Fee Public,stem drive,Launch,IG,Carousel,True,Both,All,False,346.53,363.9,5400,282.0,518.0,385.0,285.0,137.0,5.0,2.0,27.0
+2026-04-03,Soweto Academy,Soweto,No-Fee Public,literacy week,Launch,tiktok,Video,True,Grade 12,Male,False,234.56,278.12,10740,,1241.0,659.0,424.0,221.0,19.0,8.0,33.0
+24/05/2026,Sandton College,Sandton,Public,LITERACY WEEK,Close,IG,Video,True,Grade 11,Male,False,676.54,622.24,15657,1241.0,1467.0,921.0,635.0,312.0,26.0,17.0,130.0
+2026/04/20,soweto academy,Soweto,No-Fee Public,literacy week,Mid,instagram,Carousel,True,Both,Female,False,47.14,40.63,1178,157.0,97.0,48.0,38.0,,2.0,1.0,2.0
+30-04-2026,Sandton College,Sandton,Public,career day,Mid,WhatsApp,Carousel,False,Grade 11,Male,False,0.0,0.0,2960,1128.0,720.0,450.0,339.0,129.0,20.0,9.0,24.0
+08-04-2026,SOWETO ACADEMY,Soweto,No-Fee Public,STEM Drive,Launch,whatsapp,Static,True,Both,Male,True,10.19,10.14,383,69.0,68.0,35.0,20.0,9.0,0.0,0.0,2.0
+13-06-2026,ROSEBANK ACADEMY,Rosebank,Public,Literacy Week,Close,instagram,Story,True,Grade 12,Male,False,141.55,150.67,3154,484.0,171.0,78.0,46.0,17.0,1.0,0.0,9.0
+2026-05-12,Randburg High,Randburg,Public,stem drive,Mid,tiktok,Video,True,Grade 12,Male,False,394.51,402.67,13316,2957.0,1724.0,1149.0,809.0,278.0,76.0,46.0,132.0
+17-05-2026,SANDTON COLLEGE,Sandton,Public,Digital Skills Push,Close,IG,Video,True,Grade 12,Male,False,283.97,253.13,6233,1094.0,385.0,182.0,121.0,,5.0,2.0,15.0
+2026-04-01,Brixton High,Johannesburg South,Public,LITERACY WEEK,Launch,TT,Video,False,Grade 11,All,False,0.0,0.0,1835,673.0,213.0,122.0,73.0,22.0,1.0,0.0,
+09/04/2026,Midrand High,Midrand,Public,Digital Skills Push,Launch,facebook,Story,False,Grade 11,Male,False,0.0,0.0,1133,68.0,55.0,26.0,15.0,7.0,0.0,0.0,3.0
+2026/04/18,SOWETO ACADEMY,Soweto,No-Fee Public,digital skills push,Mid,instagram,Carousel,True,Both,Male,True,166.66,162.5,2571,136.0,210.0,135.0,91.0,28.0,,1.0,11.0
+2026/05/22,ALEXANDRA SCHOOL,Alexandra,No-Fee Public,career day,Close,whatsapp,Static,True,Grade 12,Female,True,,14.99,1064,239.0,,108.0,64.0,25.0,1.0,0.0,10.0
+2026/06/13,BRIXTON HIGH,Johannesburg South,Public,Literacy Week,Close,tiktok,Video,True,Both,Male,True,589.67,641.25,22491,5305.0,1887.0,1351.0,1104.0,580.0,96.0,43.0,126.0
+2026/05/04,Sandton College,Sandton,Public,digital skills push,Mid,Facebook,Static,True,Grade 12,Female,False,170.07,,4379,76.0,289.0,124.0,,,9.0,5.0,10.0
+2026-05-08,brixton high,Johannesburg South,Public,Literacy Week,Mid,WhatsApp,Static,False,Grade 11,All,False,0.0,0.0,409,91.0,98.0,72.0,42.0,,2.0,0.0,8.0
+31-05-2026,soweto academy,Soweto,No-Fee Public,Digital Skills Push,Close,WA,Static,False,Both,Female,False,0.0,0.0,1248,257.0,323.0,150.0,119.0,53.0,,1.0,15.0
+17/04/2026,BRIXTON HIGH,Johannesburg South,Public,LITERACY WEEK,Mid,IG,Story,True,Both,Female,False,388.03,428.03,7913,623.0,936.0,491.0,396.0,158.0,20.0,12.0,43.0
+12/04/2026,Alexandra School,Alexandra,No-Fee Public,STEM Drive,Launch,fb,Carousel,False,Both,Female,False,0.0,0.0,2566,219.0,86.0,54.0,37.0,16.0,0.0,0.0,6.0
+2026-05-05,,Randburg,Public,Career Day,Mid,TikTok,Video,False,Grade 12,Male,False,0.0,0.0,7277,1828.0,520.0,244.0,146.0,72.0,18.0,8.0,26.0
+05/05/2026,rosebank academy,Rosebank,Public,DIGITAL SKILLS PUSH,Mid,Facebook,Story,False,Grade 12,All,False,0.0,0.0,3112,89.0,64.0,28.0,15.0,8.0,2.0,0.0,
+2026-05-07,Soweto Academy,Soweto,No-Fee Public,Career Day,Mid,instagram,Video,False,Both,Female,False,0.0,0.0,10605,1307.0,1098.0,573.0,333.0,174.0,18.0,12.0,75.0
+17/04/2026,sandton college,Sandton,Public,digital skills push,Mid,tiktok,Static,True,Both,Female,False,89.24,92.13,4170,643.0,477.0,283.0,157.0,66.0,8.0,5.0,
+01/04/2026,ALEXANDRA SCHOOL,Alexandra,No-Fee Public,stem drive,Launch,WA,Static,True,Grade 11,Female,True,37.64,43.64,1470,295.0,375.0,170.0,140.0,71.0,5.0,3.0,23.0
+2026-04-11,sandton college,Sandton,Public,career day,Launch,Instagram,Video,True,Both,Female,False,82.77,,1916,186.0,180.0,128.0,90.0,34.0,,,
+2026/04/26,SANDTON COLLEGE,Sandton,Public,Literacy Week,Mid,facebook,Static,True,Grade 12,Female,False,144.65,124.81,3402,96.0,109.0,76.0,50.0,17.0,4.0,2.0,10.0
+10-04-2026,Midrand High,Midrand,Public,DIGITAL SKILLS PUSH,Launch,WA,Static,True,Grade 11,Female,False,14.97,,552,176.0,94.0,59.0,39.0,14.0,0.0,0.0,4.0
+2026/04/24,Soweto Academy,Soweto,No-Fee Public,CAREER DAY,Mid,facebook,Static,True,Both,All,False,98.45,112.88,2932,179.0,150.0,61.0,36.0,16.0,1.0,0.0,4.0
+30/05/2026,sandton college,Sandton,Public,digital skills push,Close,TikTok,Static,True,Grade 11,Male,False,166.3,183.79,5250,901.0,778.0,337.0,226.0,79.0,,4.0,23.0
+03-04-2026,alexandra school,Alexandra,No-Fee Public,LITERACY WEEK,Launch,Instagram,Story,True,Grade 11,Male,True,470.42,426.99,12609,702.0,546.0,247.0,150.0,80.0,2.0,1.0,29.0
+06-04-2026,sandton college,Sandton,Public,stem drive,Launch,Insta,Carousel,True,Grade 11,Male,False,220.5,202.67,5523,658.0,466.0,235.0,,91.0,4.0,2.0,23.0
+03-05-2026,Rosebank Academy,Rosebank,Public,stem drive,Mid,TikTok,Video,True,Grade 11,All,False,131.3,114.44,3850,1094.0,,220.0,130.0,45.0,5.0,2.0,15.0
