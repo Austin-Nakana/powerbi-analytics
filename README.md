@@ -16,9 +16,11 @@ The Problem: EduReach runs targeted social media campaigns across 7 schools in 4
 ## Dashboard Walkthrough
 
 ### Page 1 - Executive Summary
+<img width="1252" height="892" alt="bi_p1" src="https://github.com/user-attachments/assets/02118227-286b-48e7-9842-2652b3e493dd" />
+
 
 The first page answers the most fundamental question the board asks before anything else:
-*"At a high level, did the campaign work?"*
+# 1. *"At a high level, did the campaign work?"*
 
 The five KPI cards at the top give an immediate snapshot:
 - **Total Registrations** - how many learners completed the registration form
@@ -38,9 +40,10 @@ The slicers on the right allow the board to filter the entire page by campaign, 
 ---
 
 ### Page 2 - Platform ROI
+<img width="1547" height="892" alt="bi_p2" src="https://github.com/user-attachments/assets/88d435d9-f414-4cfc-9514-c70256383e6d" />
 
 This page answers Thandi's second question directly:
-*"Which platform is pulling its weight, and which is draining budget?"*
+# 2. *"Which platform is pulling its weight, and which is draining budget?"*
 
 The **Cost per Registration by Platform** bar chart is the anchor visual. It shows:
 - **WhatsApp** - R3.34 per registration (most efficient)
@@ -59,9 +62,11 @@ The **Full Platform Breakdown** table at the bottom ties it all together, showin
 ---
 
 ### Page 3 - School Heatmap
+<img width="1557" height="897" alt="bi_p3" src="https://github.com/user-attachments/assets/d4f19a28-e335-4d48-a1ee-2dab71c9709c" />
 
-This page answers Thandi's third question:
-*"Are there schools where impressions are high but registrations are low?"*
+
+## This page answers Thandi's third question:
+# 3. *"Are there schools where impressions are high but registrations are low?"*
 
 The **Impressions vs Registrations Scatter Chart** plots every school as a bubble, where bubble size represents total spend and colour represents school type (Public vs No-Fee Public). Schools in the bottom-right of the chart, high impressions, low registrations — are the ones where digital reach exists but conversion is breaking down.
 
@@ -80,9 +85,10 @@ The `on_ground_support` count column in the table reveals another pattern: schoo
 ---
 
 ### Page 4 - Campaign & Content Performance
+<img width="1552" height="897" alt="bi_p4" src="https://github.com/user-attachments/assets/a258b073-34bc-4fa0-9717-5f361f6d0670" />
 
 This page answers two of Thandi's questions simultaneously:
-*"Which campaign drove the most registrations per rand spent?"* and *"Which content type resonates with Grade 12s vs Grade 11s?"*
+# 4. *"Which campaign drove the most registrations per rand spent?"* and *"Which content type resonates with Grade 12s vs Grade 11s?"*
 
 The **Registrations by Campaign** bar chart broken down by campaign phase shows that **Career Day** and **STEM Drive** led registration volumes across the quarter. Crucially, both peaked during the **Mid phase**, the core campaign period, and tapered off in Close, which points to urgency messaging underperforming in the final stretch (this is explored further on Page 5).
 
@@ -103,9 +109,10 @@ The **Engagement Rate by Content Type and Target Grade** chart answers the demog
 ---
 
 ### Page 5 - Campaign Momentum
+<img width="1552" height="895" alt="bi_p5" src="https://github.com/user-attachments/assets/6e94c1e4-e586-4dfe-aca7-21f6043825c4" />
 
 This page answers Thandi's final question:
-*"Are we accelerating or stalling as the quarter closes?"*
+# 5. *"Are we accelerating or stalling as the quarter closes?"*
 
 The **Registrations Over Time by Campaign Phase** line chart shows the campaign arc clearly. The Mid phase dominates the registration peak, the period of highest activity, spend, and conversion. The Close phase shows a visible decline in registrations despite spend remaining active, which is precisely the pattern that should concern the board.
 
